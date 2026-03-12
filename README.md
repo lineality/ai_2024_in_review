@@ -1,5 +1,6 @@
 # ai_2024_in_review
 
+
 2024 AI Year in Review
 Project Management & AI ML: Old Books & the Genie in the Lamp, 
 2025.01.19-2025.02.??
@@ -3741,6 +3742,31 @@ but possibly (if totally by accident in terms of a stock market reaction that no
 
 'find a way to make it work' 
 
+...
+
+# prompting misrepresented as learning:
+
+analogy: a foggy slippery hill, mostly flat on top, but increasing slope:
+three general 'areas'
+1. generally flat stable area
+2. unpredictably slippery mild slope
+3. too slippy steep slope
+
++ spiky attention in the prompt; e.g. needle in haystack tasks.
+
+As more instructions go into a prompt:
+
+A. The attention on a given item is randomly shuffled. (spiky attention)
+B. You take a step closer towards a more dangerous range.
+C. You can't see where safe becomes moderate-risk becomes high risk
+D. Testing results becomes more challenging.
++
+- Each model reacts differently
+- Each 'new version of a model' will react differently 
+- cloud models get deprecated
+- Some evidence shows models are becoming more fragile (not less).
+
+
 
 ....
 
@@ -4254,3 +4280,32 @@ arXiv:2603.02218 [pdf, html, other]
 Self-Play Only Evolves When Self-Synthetic Pipeline Ensures Learnable Information Gain         
 
 ...
+
+PDF parsing problems have persisted for decades:
+economist.com/business/2026/02/24/the-war-against-pdfs-is-heating-up 
+
+...
+https://www.economist.com/business/2026/02/25/americas-bosses-are-being-dragged-into-local-politics
+...
+https://www.economist.com/finance-and-economics/2026/02/22/the-ai-productivity-boom-is-not-here-yet 
+...
+https://www.economist.com/finance-and-economics/2026/02/25/a-viral-research-note-on-ai-gets-its-economics-wrong
+...
+https://www.economist.com/finance-and-economics/2026/02/22/markets-are-churning-furiously-beneath-the-surface
+
+https://www.economist.com/science-and-technology/2026/02/25/ai-tools-are-being-prepared-for-the-physical-world 
+
+...
+
+https://www.economist.com/leaders/2026/03/05/ai-danger-gets-real
+
+https://www.economist.com/briefing/2026/03/05/an-ai-disaster-is-getting-ever-closer 
+
+
+...
+
+article full of word salad, vagueness, and errors
+https://www.economist.com/briefing/2026/03/05/an-ai-disaster-is-getting-ever-closer 
+
+...
+
