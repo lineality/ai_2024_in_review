@@ -1,9 +1,11 @@
+under construction
+ 
 # ai_2024_in_review
 
 
 2024 AI Year in Review
-Project Management & AI ML: Old Books & the Genie in the Lamp, 
-2025.01.19-2025.02.??
+Project Management & AI ML: Read The Old Books
+2025.01.19-??
 
 
 # Main Macro-Topics:
@@ -38,10 +40,23 @@ We have...a not short investigation in front of us. To some extent it can be map
 
 # List of Topics:
 
-Search, Stateless tools, & Project State
+
+### Conceptual Topics:
+- Overblown Fear, Recreational Fear-Entertainment
+- Sustainable Business-Models for Software
+
+- Search, Stateless tools, & Project State
 -- state, statelessness
 -- 
 -- Project Space
+
+- Project Management
+- Abandoned 'Soft-Science' Disciplines
+- Generalized STEM
+
+
+## Technical and Under the Hood Topics:
+- Sub-Symbolic STEM
 
 - state, project state, project-object state, a state in system architectures and models, including structured data search, chunk vector search, and vector-search spaces
 -- task decomposition and integration
@@ -70,7 +85,7 @@ are foundation models another category:
 - No Supervillain AI in 2024
 -- changing stance on throttling being top priority
 
-- areas:
+- Specific Software/Hardware 'Feature' Areas:
 -- language vector embedding models
 -- language generative
 -- multimodal generative
@@ -380,6 +395,9 @@ One of the trends that has accelerated (though it may reverse again) in 2025 is 
 But a Mainland-'China'-Continent that is subsuming Russia and a USA that is reverting to a pre-WWII anti-Atlantic stance, and a USA that is becoming anti-STEM paranoid and pulling back from basic STEM infrastructure, aerospace and navigation, such as atomic clock maintenance(? NIST/NCAR), general economic data recording, science funding and University support in general, may at least indicate a potentially very different landscape for research, where the already somewhat fragmented world of matrix-parallel processing and operating systems may become otherwise fragmented between Chinese, European, and ever-diminishing anti-STEM USA (not to mention the volatility around Taiwan and Taiwanese chips).
 
 [2025.12.24]
+
+see:
+https://www.economist.com/business/2026/03/12/altman-amodei-and-musk-fight-dirty-for-the-biggest-prize-in-business 
 
 
 https://arxiv.org/abs/2601.22159
@@ -1088,6 +1106,8 @@ There has been (from 2022 into 2026) a perhaps perfect opportunity for nationsta
 
 # Managing Bad Behavior: Assessing & Reassessing AI and Humanity
 
+
+
 A theme for me is trying to fruitfully understand what connections there in a general learning space between 'human' and animal behaviors in observations of biology and in machine-learning and AI in STEM. For most people the emphasis is on assuming and pushing AI and nature apart and further apart, assuming there is no possible connection of any kind. 
 
 A theme since the 1970's has been a too-slow rolling back of the dogmatic ideology that all people are perfectly "rational" decision calculation machines. 
@@ -1119,6 +1139,9 @@ Perhaps like the name-mishmashing of a William S. Burroughs manuscript called "B
 
 1. How individual people may misuse AI in harmful ways, as in the focus of the baby boomer article: reckless mostly self-harming behaviors being the scope (though arguably a negligence that erodes and weathers social institutions the delicate tasks of raising future generations is also of concern).
 2. How AI itself behave of 'misbehaves': If you want to expeditiously edit some business emails to get on with more important tasks, we don't want AI to have the obsessive, anti-social, anti-work, anti-health, risk-seeking, attracted-to-destruction habits that characterize many human-people's poor decision making skills. (Topic note: "Decisions" and "Coordinated Decisions" are also a key topic here.)
+
+
+https://www.economist.com/international/2026/03/11/how-america-and-israel-built-vast-military-targeting-machines
 
 
 # Sweatspot
@@ -1160,9 +1183,13 @@ B. People do not seem to be learning or reflecting on their own toxic addiction 
 
 ...
 
-...
 
-In Retrospect the regulatory-fear stance was completely overblown. In a classic AI-Summer over-promising and under-delivering repeat of many times repeated history, people expected the fabric of reality to peel apart and scrambled to lock down science to stem the massive wave of AI...and there was no massive wave; there wasn't even a small wave. 
+...
+# Overblown Fear, Recreational Fear-Entertainment
+
+
+
+In Retrospect the regulatory-fear stance was completely overblown. In a classic AI-Summer over-promising and under-delivering repeat of oft repeated history, people expected the fabric of reality to peel apart and so scrambled to lock down science to staunch the anticipated massive wave of AI...and there was no massive wave; there wasn't even a small wave. 
 
 zero household robot
 zero office robots
@@ -4299,8 +4326,6 @@ https://www.economist.com/science-and-technology/2026/02/25/ai-tools-are-being-p
 
 https://www.economist.com/leaders/2026/03/05/ai-danger-gets-real
 
-https://www.economist.com/briefing/2026/03/05/an-ai-disaster-is-getting-ever-closer 
-
 
 ...
 
@@ -4309,3 +4334,28 @@ https://www.economist.com/briefing/2026/03/05/an-ai-disaster-is-getting-ever-clo
 
 ...
 
+https://www.economist.com/culture/2026/03/05/who-wants-a-partner-to-toady-to-them-quite-a-lot-of-people 
+
+...
+
+
+Future / Energy Costs
+https://www.economist.com/science-and-technology/2026/03/02/data-centres-in-space-less-crazy-than-you-think 
+
+(review)
+https://www.economist.com/finance-and-economics/2025/09/04/what-if-artificial-intelligence-is-just-a-normal-technology
+
+
+
+Miliary & Defense
+https://www.economist.com/business/2026/03/12/altman-amodei-and-musk-fight-dirty-for-the-biggest-prize-in-business
+
+
+Miliary & Defense
+https://www.economist.com/international/2026/03/11/how-america-and-israel-built-vast-military-targeting-machines 
+
+(review)
+https://www.economist.com/business/2026/03/09/chinas-ai-giants-are-handing-out-cash-to-lure-in-users
+
+(review)
+https://www.economist.com/leaders/2026/01/29/stop-panicking-about-ai-start-preparing 
