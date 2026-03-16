@@ -13,6 +13,10 @@ Project Management & AI ML: Read The Old Books
 - Business Models
 - Uses & Applications
 
+- The Neglected Disciplines
+- https://www.amazon.com/World-Appears-Journey-into-Consciousness/dp/198488199X/
+- https://www.amazon.com/Technology-Academics-Universities-Scientific-Revolution/dp/1014404819 
+
 ...
 interfacing between structured and unstructured data
 ...https://arxiv.org/abs/2603.02226 
@@ -51,7 +55,9 @@ We have...a not short investigation in front of us. To some extent it can be map
 -- Project Space
 
 - Project Management
+
 - Abandoned 'Soft-Science' Disciplines
+
 - Generalized STEM
 
 
@@ -69,6 +75,9 @@ We have...a not short investigation in front of us. To some extent it can be map
 
 - workflow does not generalize across domains: in this case: from anything else to AI-ML-DS 
 
+- What to plan for?
+
+- No Drosophila/Arabadopsis for AI in 2024
 
 - Ongoing confusion over System-1 and System-2, 'external STEM action' and 'reason' vs. overall signal processing.
 - IoT  (economist article)
@@ -385,7 +394,58 @@ basic concepts sections:
 The mainframe analogy, more than just me: Steve Gibson:
 https://twit.tv/shows/security-now/episodes/1052 
 
+...
 
+Fantasy: Computer Science and Disinformation-Information-Wars
+
+...
+
+
+
+# The Abandoned 'Soft-Science' Disciplines & Deferred Non-Linear STEM
+
+An area that I think is necessary for at least trying to understand the year 2024 is the historical context whereby preceding years left more than a small gab and learning curve in a number of probably surprisingly every-day areas of study.
+
+In 2026 (1-2 years after 2024 started) the science journalist Michael Pollan (who I have followed since an undergraduate when his botany writing was assigned along with text books) came out with a book called "A World Appears." In this book he does his usual exemplary work at researching an explored and considered topic (in a way hopefully broadly accessible to most readers, which is not an easy feat) in this case with a focus on the scientific study of the mind, intelligence, and consciousness. 
+
+https://www.amazon.com/World-Appears-Journey-into-Consciousness/dp/B0FQT7ZLRW/
+
+Implicit to Pollan's narrative is the overwhelming lack of interest and permission for humans to research the human mind and mental-development (especially since the 1970s; most of his quotations come from earlier in the 1900's and even 1800's from scientists such as William James (...or, do you object to calling William James a 'scientist'?)). 
+
+It takes extraordinary courage for a person with a career and reputation to speak out on an 'emperor has no clothes' type topic, and it takes super-human skill to do so in a way that is appealing and avoids rejection by society. I think this was the same general combination of courage and skill with which Daniel Kahneman persisted through half a century of ridicule to emerge congenially as a noble winning respected academic (from what I have read Amos Tversky was (perhaps even more brilliant, but) decidedly antagonistic and fight-seeking regarding the diplomacy of publishing and popular public discourse; either way, he sadly passed away decades before the world started to open up to their ideas). 
+
+https://www.amazon.com/Thinking-Fast-and-Slow-audiobook/dp/B005Z9GAJG/
+
+
+- David Kahneman
+- Michael Pollan
+
+
+In this report (and others) I periodically reference the fact that roughly since the 1970's, pursuing research into the mind, linguistics, consciousness, and other areas such biological networks, non-linear and dynamical systems, and an area we barely have terminology to name and announce even though such things are neither new nor rare: high-dimensional data-structures. Most people in deep learning do not know that there already is a science of N-Dimensional Hypervolumes, as well as parallel disciplines for analyzing 'correlations' in data. 'Ecology,' usually somehow dismissed as 'environmentally' is (at least at some schools such as CU-Boulder where I studied) defined as the study of N-Dimensional hypervolumes, non-living as well as living. People studying popular deep-learning neural networks should pick up a textbook on information theory, as many of the underlying technical projects are the same, and the real world tools do draw from information-theory technologies.
+
+There is also Hinton's remark (which I mention because of his respectability) that linguistics has become yet another moribund area of science, cordoned off with social taboos so that there are neither questions nor answers.
+
+
+The point is, that in 2024 there was a profound vacuum where somehow both the discussion of many topics was socially taboo, and furthermore even an awareness of this vacuum was itself absent. 
+
+As of 2026:
+We have no theory of language, we have no theory of mind, we have no theory of intelligence, we have no theory of development, we have no theory of education, we have no theory of sub-symbolic STEM, we have no theory of non-linear, dynamical STEM, etc. etc.
+
+And, most people do not know this. Most people assume that labs at top institutions around the world have been collaboratively working on these just like other areas of science like astronomy, physics, chemistry,and medicine. 
+
+Most people assume that when we ask question such as 
+"Is __ AI technology intelligent?" 
+"Is __ AI technology conscious?" 
+"How does __ AI technology relate to human-learning and development?" 
+"How might __ AI technology affect human-learning and development?"
+that there is some apparatus of science somewhere that can address these questions, much as a new disease can be commented on by medical researchers or a new asteroid can be commented on by astro-physicists, etc. 
+
+We didn't know that we didn't know. 
+
+
+(Needless to say, I strongly recommend you read and consider the writings of David Kahneman and Michael Pollan.)
+
+Daniel Kahneman
 ... 
 
 ## Research in a post-bretton-woods world:
@@ -1314,8 +1374,8 @@ not an exciting robots saving or destroying the world, but a more nuanced set of
 ## Management Administration Political-Philosophy, Political Science, and STEM
 - General STEM
 - General System Collapse
-- Khaneman-Tversky
-- Khaneman-Tversky Coordinated Decisions
+- Kahneman-Tversky
+- Kahneman-Tversky Coordinated Decisions
 - Definition Behavior Studies
 - General Coordinated Decisions
 - Values, Productivity & Sustainability
@@ -2911,7 +2971,7 @@ overtraining and fragility of model
 ...
 
 # people love the sport-theater-drama of cargo-cult pageants and fireworks:
-- khaneman tversky and theatrical fictions around stochastic fluctuations.
+- Kahneman / Tversky and theatrical fictions around stochastic fluctuations.
 
 ..
 
@@ -3302,7 +3362,7 @@ Recommended reading:
 
 The Fall of the Third Republic
 AI Narratives
-Noise: Danniel Khaneman
+Noise: Danniel Kahneman
 Issacson: the innovators
 Kahneman: Thinking fast and slow
 Gleik: the information
@@ -4359,3 +4419,49 @@ https://www.economist.com/business/2026/03/09/chinas-ai-giants-are-handing-out-c
 
 (review)
 https://www.economist.com/leaders/2026/01/29/stop-panicking-about-ai-start-preparing 
+
+
+
+
+....
+
+# Books
+
+#### Topic: The Neglected Disciplines
+- https://www.amazon.com/World-Appears-Journey-into-Consciousness/dp/198488199X/
+- https://www.amazon.com/Technology-Academics-Universities-Scientific-Revolution/dp/1014404819 
+
+
+...
+
+
+https://www.economist.com/business/2026/03/10/a-new-wave-of-disrupters-takes-on-american-health-care 
+
+....
+
+https://www.economist.com/finance-and-economics/2026/03/12/why-investors-wont-know-what-to-make-of-ai-for-a-while 
+
+https://www.economist.com/science-and-technology/2026/03/11/ai-is-helping-expand-the-frontier-of-theoretical-physics
+
+...
+
+
+
+- https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf 
+- https://transformer-circuits.pub/2025/attribution-graphs/biology.html
+- https://github.com/Jeffser/Alpaca/
+- https://www.economist.com/business/2025/09/25/how-ai-is-changing-the-office 
+- https://www.youtube.com/watch?v=21EYKqUsPfg
+
+The 'history of the future' and investment patterns around the metaverse:
+
+tech stack instability.
+
+
+in theory 
+generative/embedding AI, subsymbolic stem, project-state technology, virtual-reality/meta-verse, internet virtual communities, will come together in the future. Why have they not come together to 'transform the world' already?
+1. We should not be looking for a divine-shock transformation
+2. The state of the science and status of technology infrastructure is nascent/juvenile and in shameful shambles.
+- power of 10 rules retrospective
+
+https://www.amazon.com/World-Appears-Journey-into-Consciousness/dp/B0FQT7ZLRW/
