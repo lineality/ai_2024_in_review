@@ -22,6 +22,9 @@ interfacing between structured and unstructured data
 ...https://arxiv.org/abs/2603.02226 
 
 
+https://www.economist.com/business/2026/03/19/why-ai-has-not-yet-upset-indias-it-industry 
+
+
 AI 2024 in Review is a study of the state of the world's reaction to and perception of (and uses of) AI/ML technologies, especially (but not restricted to) Foundation-Type, Transformer-Based, Generative-AI technology. This is not the same as an analysis of Foundation-Type, Transformer-Based, Generative-AI technology. For a (not brief) analysis of Foundation-Type, Transformer-Based, Generative-AI technology, see: https://github.com/lineality/object_relationship_spaces_ai_ml, which ephasizes use and analysis of project-object-state.
 
 
@@ -421,7 +424,9 @@ https://www.amazon.com/Thinking-Fast-and-Slow-audiobook/dp/B005Z9GAJG/
 - Michael Pollan
 
 
-In this report (and others) I periodically reference the fact that roughly since the 1970's, pursuing research into the mind, linguistics, consciousness, and other areas such biological networks, non-linear and dynamical systems, and an area we barely have terminology to name and announce even though such things are neither new nor rare: high-dimensional data-structures. Most people in deep learning do not know that there already is a science of N-Dimensional Hypervolumes, as well as parallel disciplines for analyzing 'correlations' in data. 'Ecology,' usually somehow dismissed as 'environmentally' is (at least at some schools such as CU-Boulder where I studied) defined as the study of N-Dimensional hypervolumes, non-living as well as living. People studying popular deep-learning neural networks should pick up a textbook on information theory, as many of the underlying technical projects are the same, and the real world tools do draw from information-theory technologies.
+In this report (and others) I periodically reference the fact that roughly since the 1970's, pursuing research into the mind, linguistics, consciousness, and other areas such biological networks, non-linear and dynamical systems, and an area we barely have terminology to name and announce even though such things are neither new nor rare: high-dimensional data-structures. So it is vindicating to see a serious work by a serious respected figure corroborate this basic observation, because while being a very basic observation it is nevertheless not something that people welcome discussion of.
+
+Most people in deep learning do not know that there already is a science of N-Dimensional Hypervolumes, as well as parallel disciplines for analyzing 'correlations' in data. 'Ecology,' usually somehow dismissed as 'environmentally' is (at least at some schools such as CU-Boulder where I studied) defined as the study of N-Dimensional hypervolumes, non-living as well as living. People studying popular deep-learning neural networks should pick up a textbook on information theory, as many of the underlying technical projects are the same, and the real world tools do draw from information-theory technologies.
 
 There is also Hinton's remark (which I mention because of his respectability) that linguistics has become yet another moribund area of science, cordoned off with social taboos so that there are neither questions nor answers.
 
@@ -445,7 +450,7 @@ We didn't know that we didn't know.
 
 (Needless to say, I strongly recommend you read and consider the writings of David Kahneman and Michael Pollan.)
 
-Daniel Kahneman
+
 ... 
 
 ## Research in a post-bretton-woods world:
@@ -1073,6 +1078,8 @@ ONNX Models: On the edge of abandonwear
 As a microcosm of 2024: The Manning Press book "Natural Language Processing in Action" (from March 2019, by Hobson Lane, Cole Howard, and Hannes Max Hapke) is one of my favorite books of all time (and I recommend everyone read it).. https://www.manning.com/books/natural-language-processing-in-action 
 
 In a classic cosmic giggle of fate, the second edition (of NLP in Action) was about to be released in 2023 when the OpenAI foundation model breakthrough happened... and then the release date of the 2nd edition of NLP in Action was very fortunately pushed back (most likely because they wanted to reassess how much had changed, rather than just go ahead and publish no longer current book; e.g. material from 2024 was included in the book originally scheduled to be published in 2023, so not feasible to have been a delay in going to print with the 2023 version). Through 2023 and then 2024 the release date kept being pushed back. It is now 2025 and maybe it will be released in the first half of 2025. 
+
+(Update: I pre-ordered the 2nd edition on March 20th, 2023 (when it was expected to be published within a few months), I received the book in February or March of 2025. Aside: The first edition (a classic) came out in 2019 and the excellent Audible came out in the same year (2019), but as of March 2026 there is no audio for the 2nd edition.)
 
 I think a conservative reading of this story is that the AI world changed a lot in 2023, and changed more than people thought it had changed. Not only was 2024 spent trying to make an actionable account of what happened (in AI/ML development) in 2023, but this re-orientation process was sufficiently ineffective as to both characterize 2024 and 2025 as periods of confusion and to call into question the ability of humanity to notice and react to events and changes (with Fransoi Chollet's (Deep Learning in Python 2nd edition) inflated account of supposed super-powers of psychological competence that people award to themselves with much self congratulation). We can try to imagine the conversations between the author and the publisher between 2023 and 2025 as the scheduled publication of what had been a ready to be published book kept being pushed back week after week, then month after month, then year after year. 
 
@@ -4465,3 +4472,37 @@ generative/embedding AI, subsymbolic stem, project-state technology, virtual-rea
 - power of 10 rules retrospective
 
 https://www.amazon.com/World-Appears-Journey-into-Consciousness/dp/B0FQT7ZLRW/
+
+
+...
+
+# You say software is now easy, but remember: easy things are hard.
+
+By Invitation | Stuff you can drop on your foot
+Economic power is returning to the physical realm
+Paul Achleitner on why hardware, not software, is eating the world
+
+https://www.economist.com/by-invitation/2026/03/10/economic-power-is-returning-to-the-physical-realm 
+
+
+ 
+
+...
+
+# information flow, asymmetric information, and byzantine general problems
+
+https://www.economist.com/finance-and-economics/2026/02/19/prediction-markets-are-rife-with-insider-betting   
+
+...
+
+~
+https://www.economist.com/middle-east-and-africa/2026/03/15/open-source-intelligence-shuts-down 
+
+
+https://www.economist.com/china/2026/03/18/is-cheap-energy-the-key-to-china-gaining-ai-supremacy 
+
+https://www.amazon.com/The-Philosophical-Baby-audiobook/dp/B002O0BC1A/ 
+
+
+Amts vs. AI
+https://www.economist.com/science-and-technology/2026/03/24/autonomous-swarms-are-the-future-of-drone-warfare 
