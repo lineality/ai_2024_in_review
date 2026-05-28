@@ -8,9 +8,58 @@ Project Management & AI ML: Read The Old Books
 2025.01.19-??
 
 
+Fantasy-Danger and the pseudo-statefulness of the loop-kludge:
+
+
+...
+
+Is there a Gen-AI paradigm?
+
+Two previous paradigms to keep in mind:
+
+1. The .com paradigm
+2. The mobile-tablet paradigm (or the iPhone paradigm)
+
+It arguably makes sense to push a model as far as it will go to get as much use out of it as possible. So let's look at two cases where there was indeed 'an impact' but in both cases the impact was not as absolute as the zealous push was aiming for. 
+
+The idea here is that there are specific gaps between the naive "everything will be replaced by pretrained-gen-ai" and a combination of world areas that done fit even what 'gen-ai' does well, and there are the areas the 'gen-ai' is not a feasible tool. 
+
+
+There are potentially other paradigms and long-living phantom ideas, but most of these are probably more peripheral and more under the hood (compared with .com and iPhone which probably most people on earth would recognize at a glance). 
+
+1. The SQL Paradigm
+2. The Desktop/Laptop Paradigm
+3. The OOP-GUI paradigm
+4. The Spreadsheet Paradigm
+- Vs. Python DataScience
+5. The Dos-Windows-XP Paradigm
+- vs. Posix
+6. The .com paradigm
+7. The mobile-tablet paradigm (or the iPhone paradigm)
+8. The Cloud-Containerization Paradigm 
+9. The java-script login tracking popup Paradigm
+10. The python Pip-env data science Paradigm
+- vs. Production Data Science
+
+
+
+...
+
+# The elusive cost question
+I do not think that many people in 2024-2025 were expecting the price of higher quality AI to be so high.
+Though the optimized-pipeline debate existed, through 2026 the topic of price has not gone mainstream yet.
+
+
+
+...
+
+
+
+
 # Main Macro-Topics:
 - AI-Fantasy vs. AI-Fake
-- Business Models
+- Economics: Business Models
+	- OpenAI and Sora: a case study in summer and winter
 - Uses & Applications
 
 - The Neglected Disciplines
@@ -80,7 +129,7 @@ We have...a not short investigation in front of us. To some extent it can be map
 
 - What to plan for?
 
-- No Drosophila/Arabadopsis for AI in 2024
+- No Drosophila/Arabidopsis for AI in 2024
 
 - Ongoing confusion over System-1 and System-2, 'external STEM action' and 'reason' vs. overall signal processing.
 - IoT  (economist article)
@@ -683,7 +732,10 @@ The Economics of AI are taking shape, and are still taking shape such that from 
 One overall pattern is that across the board people know so little about AI that it is difficult to make any products that people want, will use, and know how to use.
 
 It is very very difficult to work any AI (old or new) into any product. Customers don't know what they want. The tech-stack of spamming out cloud services based on backend frontend and endpoint is not suited to clear-web or deep-web AI, everything is extremely difficult and expensive in time and resources, and everyone seems to be expecting everyone else to pull a rabbit out a that which results in everyone standing around doing nothing. 
+...
 
+EPO
+...
 
 (part of economics of AI)
 # Product, Not Market
@@ -4503,6 +4555,198 @@ https://www.economist.com/china/2026/03/18/is-cheap-energy-the-key-to-china-gain
 
 https://www.amazon.com/The-Philosophical-Baby-audiobook/dp/B002O0BC1A/ 
 
+...
+
+Fantasy vs. Signals: Hyack and Kanaman-Tvresky
+
+https://www.economist.com/finance-and-economics/2026/03/24/chinas-new-masterplan-for-its-tech-economy-in-2030-and-beyond
+...
 
 Amts vs. AI
 https://www.economist.com/science-and-technology/2026/03/24/autonomous-swarms-are-the-future-of-drone-warfare 
+
+...
+
+https://www.youtube.com/watch?v=mx3g7XoPVNQ 
+
+...
+
+economics of ai
+
+AI has a subsidization problem
+Theo - t3․gg
+https://www.youtube.com/watch?v=w62xTVuyu3s 
+
+
+...
+ants and ai
+http://economist.com/science-and-technology/2026/03/24/autonomous-swarms-are-the-future-of-drone-warfare 
+
+
+...
+
+critical thinking 
+
+Sol Rashidi...
+Cyera
+
+data governance
+'numbness'
+
+
+...
+
+
+https://www.youtube.com/shorts/D5acmSFp3As 
+very important topics, horribly written, research, edited, article:
+https://www.economist.com/science-and-technology/2026/04/08/ai-models-could-offer-mathematicians-a-common-language 
+
+...
+
+issues of economist 
+mythos moment:
+note: no memory of this same thing happening is late 2022, early 2023
+
+
+
+...
+
+https://www.economist.com/china/2026/04/16/training-for-beijings-humanoid-half-marathon-is-gruelling
+
+https://www.economist.com/insider/the-insider/five-men-control-ai-who-should-control-them?ref=featured
+
+https://www.economist.com/science-and-technology/2026/04/15/how-ai-hackers-will-shake-up-cyber-security
+
+https://www.economist.com/leaders/2026/04/16/america-wakes-up-to-ais-dangerous-power 
+
+
+...
+
+
+https://www.theguardian.com/games/2026/mar/16/petri-dish-brain-cells-playing-doom-cortical-labs 
+
+
+...
+
+This is an exceptionally poorly written article.
+
+https://www.economist.com/business/2026/04/23/apples-new-boss-needs-to-restore-its-magic-for-the-ai-era 
+
+...
+
+
+https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you 
+
+...
+
+
+https://www.economist.com/united-states/2026/04/23/artificial-intelligence-is-creeping-into-american-lawmaking 
+
+...
+
+The Impact of AI-Generated
+Text on the Internet
+Jonas Dolezal1, Sawood Alam2, Mark Graham2 and Maty Bohacek3
+1Imperial College London, 2Internet Archive, 3Stanford University
+https://arxiv.org/pdf/2604.26965 
+
+
+
+
+
+Probably a good article:
+
+Are more throttling and price-up adjustments the nearterm norm for AI?
+(Important topic, and probably a good article. Yet so many are hesitant to work on small (& local models) and architectures.)
+https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here 
+
+
+...
+
+AI productivity myth: AI layoffs are destroying productivity | Natasha Bernal
+The Tech Report
+https://www.youtube.com/watch?v=3CfYl3vRW10
+
+...
+
+This is not the AI we were promised | The Royal Society
+The Royal Society
+Join us for the Royal Society Michael Faraday Prize Lecture delivered by 2025 winner Professor Michael John Wooldridge.
+https://www.youtube.com/watch?v=CyyL0yDhr7I 
+
+...
+https://www.economist.com/united-states/2026/05/07/the-democratic-approach-to-ai-is-not-all-about-bans
+
+
+https://www.economist.com/china/2026/05/07/ai-creates-a-fearsome-cold-war-style-dilemma 
+
+...
+
+Not a very helpful article: Four years of gen-AI and there's no story at all... but instead of that being the story, the story is 'Just wait, doom will come!!'
+
+https://www.economist.com/science-and-technology/2026/04/29/a-glimpse-into-cyber-securitys-ai-driven-future
+
+...
+
+https://arxiv.org/abs/2605.13848 
+[Submitted on 8 Mar 2026]
+GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration
+Yeahia Sarker, Md Rahmat Ullah, Musa Molla, Shafiq Joty
+
+    Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible execution. We introduce GraphBit, an engine-orchestrated framework that defines workflows explicitly and deterministically as a directed acyclic graph (DAG). Unlike prompted orchestration, agents in GraphBit operate as typed functions, while a Rust-based engine governs routing, state transitions, and tool invocation, ensuring reproducibility and auditability. The engine supports parallel branch execution, conditional control flow over structured state predicates, and configurable error recovery. A three-tier memory architecture consisting of ephemeral scratch space, structured state, and external connectors isolates context across stages, preventing cascading context bloat that degrades reasoning in long-running pipelines. Across GAIA benchmark tasks spanning zero-tool, document-augmented, and web-enabled workflows, GraphBit outperforms six existing frameworks, achieving the highest accuracy (67.6 percent), zero framework-induced hallucinations, the lowest latency (11.9 ms overhead), and the highest throughput. Ablation studies demonstrate that each memory tier contributes measurably to performance, with deterministic execution providing the greatest gains on tool-intensive tasks representative of real-world deployments.
+
+
+
+...
+
+hidden typic: types of AI, and stateful single-task AI
+
+project mavin:
+
+old-school single-context AI
+
+https://www.economist.com/culture/2026/05/14/the-ai-that-transformed-american-warfare
+...
+
+
+
+...
+Lots of red flags:
+https://twimlai.com/podcast/twimlai/how-find-agent-failures-your-evals-miss 
+
+...
+other data type?
+Jure Leskovec on machine learning and deep learning with tabular/structured data
+https://twimlai.com/podcast/twimlai/relational-foundation-models-enterprise-data 
+...
+...
+
+
+Progressing vs. Second guessing:
+
+the fundamentally amnesiac and stateless nature of a 2026 generative foundation model may be on display with the persistent issue of quasi-"agent" (vomit-looped) models responding to any question for progression build on 'current state' with a 'second-guessing' recoil to square-one and re-defining that starting state, seemingly often simply for the sake of doing so, rather then navigating a problem space based on a stable map of problem-space and process. 
+
+E.g. 
+1. Ask a model for a plan on a given problem, perhaps one of a non-trivial scale (that question needs more testing).
+2. Pick any section of that and say, in the same forced-loop-illusion-of-"conversaion,": give an exact quote and say, "please explain this" or "please clarify what you meant here"
+
+3. most of the time, the model will say: "oh I was conflating two issues." "oh that wasn't important" "oh, we don't need that" and the infamous "Your right to push back on that, bro." or "Fair push back, bro." etc.
+
+4. There is also commonly, not every time, the entirely predictable confusion about roles (see the 'microphone in a noisy room' or 'screenplay without roles' discussion). The AI model (that only ever has text in, there are no 'roles' within the system, that is a very confusing user-illusion for human entertainment) a mixup about who said what.
+A. The model will repeat back to you what you said, believing that it was what it said. (this makes sense, because it is making a generative continuation of what you said)
+B. The model thinking that someone else said what it had said.(this makes sense, because there is very strongly no persistent 'it' every time the model is loop called. Every call is a separate 'agent' there is zero connection between AI-Bob-1 and AI-Bob-2; there is only an entertainment-illusion of continuity. 
+
+..
+
+
+
+
+...
+optimized classification heads
+https://www.economist.com/united-states/2026/05/21/americas-sermons-are-becoming-op-eds
+...
+
+https://www.economist.com/business/2026/05/21/a-new-mega-deal-shows-how-ai-has-turned-utilities-into-hot-property
+
+...
+
