@@ -4750,3 +4750,9 @@ https://www.economist.com/business/2026/05/21/a-new-mega-deal-shows-how-ai-has-t
 
 ...
 
+https://www.economist.com/interactive/essay/2026/05/28/the-dangerous-delusion-of-modern-warfare 
+Note: This article significantly misrepresents Stephen Pinker's arguments about cause-of-death statistics.
+
+...
+https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism
+...
