@@ -4771,3 +4771,6 @@ Note: This article significantly misrepresents Stephen Pinker's arguments about 
 https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism
 ...
 https://www.economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn
+
+Deep Learning and Historical People
+https://www.economist.com/culture/2026/05/26/marilyn-monroe-and-the-dead-star-business
