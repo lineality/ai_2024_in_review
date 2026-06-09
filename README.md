@@ -4772,5 +4772,30 @@ https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-techno
 ...
 https://www.economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn
 
+
 Deep Learning and Historical People
 https://www.economist.com/culture/2026/05/26/marilyn-monroe-and-the-dead-star-business
+
+
+...
+# Self-Toxic Own-Goal-Disinformation
+A typically horribly written article that brazenly replaces technical accuracy with click-bait emotion-shock utter nonsense. This is an important topic, and this journalistic lack of honesty is not serving the world.
+Various aspects of this article may or may not be noteworthy, but the overall nihilism about technical accuracy and general honesty calls every detail in the article into question."
+https://www.economist.com/science-and-technology/2026/06/07/will-artificial-intelligence-soon-escape-human-control
+
+...
+
+https://www.economist.com/china/2026/06/04/xi-jinping-gives-chinas-crack-scientists-new-jobs-inside-government
+
+
+...
+
+Is anyone looking at the two hype-desks contradicting each-other?
+1. the world will end because there are more people than jobs
+2. the world will end because there are more jobs than people
+
+Is there such a thing as journalism?
+
+The weekly edition immediately following an issue focused on scenario 1, there is is a focus on scenario 2:
+(this is an interesting article)
+https://www.economist.com/briefing/2026/06/04/indias-population-will-soon-be-falling-probably-quite-fast
