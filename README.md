@@ -731,7 +731,19 @@ https://www.economist.com/britain/2025/06/05/britains-ai-care-revolution-isnt-fl
 
 # Economics of AI
 
-A. GPU Economics
+
+note:  https://www.economist.com/business/2026/06/18/how-to-launch-a-tech-product
+this is from 2026, and note the absence of existing 'ai' products.
+
+A. GPU Economics:
+
+https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs
+
+
+https://www.economist.com/finance-and-economics/2026/06/15/meet-the-worlds-top-ai-pilled-economists
+
+
+
 B. Open source vs. commercial
 C. Short term vs. long term: maintainability
 - Longevity of GPU
@@ -4799,3 +4811,38 @@ Is there such a thing as journalism?
 The weekly edition immediately following an issue focused on scenario 1, there is is a focus on scenario 2:
 (this is an interesting article)
 https://www.economist.com/briefing/2026/06/04/indias-population-will-soon-be-falling-probably-quite-fast
+
+...
+
+Debris:
+https://arxiv.org/pdf/2606.12432
+
+...
+
+Software industry:
+https://www.economist.com/business/2026/06/10/fear-of-the-saaspocalypse-is-tormenting-techland
+
+...
+
+On-Edge, On-Device AI:
+https://www.economist.com/business/2026/06/09/apples-new-siri-is-a-dark-horse-in-the-ai-race
+
+...
+https://www.economist.com/business/2026/06/07/robots-could-soon-be-delivering-your-pizza
+
+...
+
+
+As hype pushes random AI-Adoption for the sake of it, costs keep escalating (for very meager results, if any). Can we separate recreational fun-sport from mature decisions? (Same problem with elections? Still no appetite for education?)
+
+https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs
+
+https://twimlai.com/podcast/twimlai/relational-foundation-models-enterprise-data
+- note: the
+
+https://twimlai.com/podcast/twimlai/rag-dead-lessons-building-ai-tax-law
+-
+
+
+This is an interesting article on important topics but the article is conspicuously muddled, arm-waving, vague, amnesiac, and self contradictory.
+https://www.economist.com/china/2026/06/21/china-is-having-another-ai-moment
