@@ -4846,3 +4846,33 @@ https://twimlai.com/podcast/twimlai/rag-dead-lessons-building-ai-tax-law
 
 This is an interesting article on important topics but the article is conspicuously muddled, arm-waving, vague, amnesiac, and self contradictory.
 https://www.economist.com/china/2026/06/21/china-is-having-another-ai-moment
+
+
+
+https://www.economist.com/culture/2026/06/17/why-westerners-are-falling-for-love-scams
+
+
+...
+
+Toys are For Fun, Tools are for Work, Though there is grey-area, interplay, and nuance
+
+
+////////////
+
+AI Summer, AI Winter
+
+In June of 2026 the unjustified 3.5 years of mouth-foaming belligerent strong-bull jaw-boning harassing and trolling anyone who isn't putting all resources into a mythic cult AI black box is perhaps starting to shift (meanwhile there is still no evidence of a single AI tool that works and is useful, outside of one-off symbolic cases such as scanning old library scrolls from Pompey).
+
+(From world-in-brief shorts)
+https://www.economist.com/the-world-in-brief/2026/06/24/6c131270-fee2-488a-8d07-339235d39f49
+Markets continued on their dizzy way, as stocks in Asia first rose then fell in early trading. South Korea’s KOSPI leapt by 4% before receding. On Tuesday it fell by 10%. In America the S&P 500 closed down by almost 1.5% and the tech-heavy NASDAQ by 2.2%. Investors seem undecided whether artificial-intelligence stocks are overvalued. They also worry that American interest rates might rise.
+( https://www.economist.com/business/2026/05/13/big-tech-is-sacrificing-its-cashflows-to-prop-up-the-ai-boom
+)
+
+See:
+https://www.economist.com/business/2026/06/23/americas-data-centre-backlash-puts-the-ai-boom-at-risk
+
+//////////
+
+https://en.wikipedia.org/wiki/Instrumental_convergence
+Note the timeline 2003 for the paperclip scenario.
