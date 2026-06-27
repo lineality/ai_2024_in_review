@@ -4876,3 +4876,15 @@ https://www.economist.com/business/2026/06/23/americas-data-centre-backlash-puts
 
 https://en.wikipedia.org/wiki/Instrumental_convergence
 Note the timeline 2003 for the paperclip scenario.
+
+
+
+https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started
+
+A mostly good article with assorted factual and terminology errors
+https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples
+
+- "Models are typically fed vast amounts of text to teach them associations between words.", This is profoundly wrong.
+- "Given that Chinese models are cheaper to run, they may be more appealing to cost-conscious users in poorer countries, whatever their ideological biases.", in the last edition the Economist published an article explaining how this is false. (a common crossed-wires issue with the Economist, as with discussions of "deterrence" in US-Chinese foreign policy).
+
+https://www.economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary
