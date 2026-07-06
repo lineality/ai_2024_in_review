@@ -3,10 +3,61 @@ under construction
 # ai_2024_in_review
 
 
+
+...
+
+The Value of Enthusiasm
+
+...
+
+Comparison To Early Internet Part 1: Market & Civic Expectations
+
+
+
+
+...
+
+Comparison To Early Internet Part 2: Why after four years are so many people still completely confused about what Generative-AI is on a basic level?
+
+This does not appear to be like 2001, when people did know generally what the internet was.
+
+...
+
+
+
+The Deluded (highly religiously gullible)
+The Inspired (European Optimists)
+The Cynical
+The Casual
+The Indifferent
+
+
+...
+
+
+Photographs, Videos, Audio-Recordings, Concept-Recordings
+
+
+
+...
+
+
+
 2024 AI Year in Review
 Project Management & AI ML: Read The Old Books
 2025.01.19-??
 
+..
+
+'agent' definitions:
+
+1. pre 2012 agents
+2. multi-step-pipelines
+3.  tool-calling
+https://twimlai.com/podcast/twimlai/why-ai-agents-break-genai-security-model
+
+
+..
 
 Fantasy-Danger and the pseudo-statefulness of the loop-kludge:
 
@@ -4888,3 +4939,32 @@ https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-differen
 - "Given that Chinese models are cheaper to run, they may be more appealing to cost-conscious users in poorer countries, whatever their ideological biases.", in the last edition the Economist published an article explaining how this is false. (a common crossed-wires issue with the Economist, as with discussions of "deterrence" in US-Chinese foreign policy).
 
 https://www.economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary
+
+
+
+This is yet another extremely badly written article:
+https://www.economist.com/china/2026/06/21/china-is-having-another-ai-moment
+- Disgraceful historical fiction: that the 'deepseek' selloff made any sense to anyone or had any explanations
+- Utter nonsense: that after deep seek there was a 'push for profitable AI products' which is completely divorced from reality
+- The explanation-reference to Musk is bazaar
+- The logical arguments are incoherent
+
+
+Look at the statefull and stateless parts of pipelines with agents:
+https://twimlai.com/podcast/twimlai/why-ai-agents-break-genai-security-model
+
+https://www.economist.com/business/2026/06/25/teaching-ai-how-people-work-is-fraught-with-problems
+
+
+
+https://www.economist.com/business/2026/06/24/silicon-valley-has-much-to-learn-from-the-spreadsheet-jockeys-it-despises
+
+https://www.economist.com/finance-and-economics/2026/06/23/why-macro-trading-is-hard
+
+https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers
+
+
+The divorce from reality is bazaar. This perhaps reminds me of very early internet techno-utopians, except instead of just longing for an unlikely future, they are apparently delusional about the present as well.
+https://www.economist.com/by-invitation/2026/06/28/if-you-thought-the-global-financial-crisis-was-bad
+```AI models are doubling in power roughly every six months.```
+What on earth is this supposed to be referring to?
