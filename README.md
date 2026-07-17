@@ -178,6 +178,8 @@ We have...a not short investigation in front of us. To some extent it can be map
 - Generalized STEM
 
 
+- Law, Code, AI
+
 ## Technical and Under the Hood Topics:
 - Sub-Symbolic STEM
 
@@ -4968,3 +4970,111 @@ The divorce from reality is bazaar. This perhaps reminds me of very early intern
 https://www.economist.com/by-invitation/2026/06/28/if-you-thought-the-global-financial-crisis-was-bad
 ```AI models are doubling in power roughly every six months.```
 What on earth is this supposed to be referring to?
+
+
+...
+Law, Code, AI
+https://www.economist.com/business/2026/06/29/the-rise-of-vibe-lawyering
+
+
+...
+
+RAG and the Statelessness problem
+- chunk retrieval
+- cross-chunk information
+- chunk retrieval vs. chunk-analytics
+
+...
+
+
+Automated Discovery & the 1-concept many-words problem:
+a stateless document-summarization tool creates a circular-paraphrasing loop
+
+
+...
+
+Vector-Clustering & the speaking-vectors problem:
+- cross vector analysis is the goal, but how to navigate vector-space?
+
+
+
+
+...
+
+https://www.economist.com/business/2026/07/07/chinas-semiconductor-industry-is-racing-to-catch-the-wests
+
+
+
+
+
+
+
+
+
+
+...
+
+Issue 337: Finding the eye in the AI storm
+Inbox
+gga email
+
+Stack Overflow <do-not-reply@hello.stackoverflow.email> Unsubscribe
+Wed, Jul 8, 10:01 AM (5 days ago)
+to stack_overflow_02
+
+External image icon
+Images are not displayed. Display images below - Always display images from do-not-reply@hello.stackoverflow.email
+The Overflow from Stack Overflow
+08 July 2026
+
+
+When new technology comes along, the hype can feel like a hurricane. One day we’re told to tokenmax and the next to try to save as many tokens as we can. Finding the eye in a hype storm takes real experience and expertise, which is why we’ve packed this Overflow with conversations with just such experts.
+
+We sat down with Fireworks AI's Benny Chen to explore the open-source protocols setting the standard for evaluating AI applications, and chatted with Snowflake's Vivek Raghunathan about turning the chaos of AI-assisted coding into a structured, five-stage repeatable playbook. Plus, Yobi's Frank Portman joined us to explore why standard LLMs aren't cut out for predicting human intent—and how they are building a "foundation model of behavior" instead.
+
+And AI isn’t the only place on the web that’s full of chaos that people are trying to cut through. From the web, we’ve got the stories of fixing memory leaks, the final frontier of cryptography, and why arguing with people may be fun but not good for your personal growth. And chaos may reign in technology nowadays but knowledge is still king—luckily, we’ve got plenty of that for you in this issue. For instance, what constitutes a full stop? Why won’t clients pay on time? Where do commas technically go? All of that chaos and knowledge is ready for you down below.
+
+
+From the blog
+
+The good, the bad, and the AI apps
+Ryan welcomes Benny Chen, co-founder of Fireworks AI, to the show to explore what actually makes an AI application good or not, how to balance qualitative signals with quantitative metrics when evaluating AI, and how open-source eval protocols and community efforts are setting the standard for AI evaluation.
+
+How do you turn AI coding chaos into a repeatable playbook?
+Vivek Raghunathan, SVP of engineering at Snowflake, joins Leaders of Code at Snowflake Summit to break down the five-stage framework his org used to go from "let chaos reign" to a repeatable, org-wide system for AI-assisted engineering.
+
+Why intent prediction needs more than an LLM
+Ryan sits down with Frank Portman, CTO at Yobi, to talk about why next-token prediction, though great for language, isn’t the right inductive bias for forecasting human behavior. They discuss how Yobi builds a “foundation model of behavior” using transformers and graph neural networks instead of chat-style LLMs, and what it takes to run millions of personalization decisions per second while keeping consumer data private.
+
+Sponsored
+Not Every Engineer Gets to Work on What’s Next
+Work on advanced technologies that shape tomorrow's capabilities.
+...
+
+https://www.economist.com/britain/2026/07/09/is-ai-writing-taking-over-westminster
+
+...
+
+Adversarial computer vision:
+https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones
+
+...
+
+https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances
+
+...
+
+https://www.economist.com/leaders/2026/07/15/how-to-make-ai-safe-and-lessen-dependence-on-america-and-china
+```
+Listen to this story
+
+PROGRESS IS rapidly being made towards regulating the release of powerful new AI models in America. Its government is set to soon outline its plan, after taking suggestions from the industry. Speaking to The Economist this week Sir Demis Hassabis, the boss of Google DeepMind, pitched a hybrid public-private regulator for the industry, echoing our own thoughts. The regulator is modelled on the agency that regulates brokers and stock markets.
+
+Rules are needed because the newest frontier models possess some dangerous powers—from hacking critical digital infrastructure to writing recipes for new bioweapons. Without any organised way of dealing with such risks, the government has taken to making up the rules as it goes along in order to control access to Mythos and Sol, Anthropic and OpenAI’s latest offerings. Ideally, predictable rules would be agreed on internationally, especially between America and China, whose models surpass everyone else’s. But time is short. Sir Demis thinks that, if America moves unilaterally, the rest of the world will sign up to its system.
+```
+
+https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely
+
+https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap
+
+https://www.economist.com/insider/inside-tech/an-interview-with-arthur-mensch
