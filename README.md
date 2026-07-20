@@ -5078,3 +5078,21 @@ https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harne
 https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap
 
 https://www.economist.com/insider/inside-tech/an-interview-with-arthur-mensch
+
+
+...
+
+https://builtin.com/articles/ai-jobs-impact-still-unclear?i=b763e6f9-0704-4ce7-b1b6-4ad948ec42c1&utm_campaign=content_newsletter&utm_medium=email
+
+
+
+...
+
+
+https://www.youtube.com/watch?v=__ATkNdG7t0
+&
+The Rise and Fall of the Artificial State
+by Jill Lepore
+https://www.amazon.com/Rise-Fall-Artificial-State/dp/1324098422
+
+...
