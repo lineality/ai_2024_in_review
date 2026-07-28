@@ -5096,3 +5096,143 @@ by Jill Lepore
 https://www.amazon.com/Rise-Fall-Artificial-State/dp/1324098422
 
 ...
+
+
+https://www.economist.com/business/2026/07/19/chinas-mysterious-new-billionaires-are-conquering-the-world
+
+...
+
+
+https://www.economist.com/international/2026/07/16/sovereign-ai-independent-of-america-and-china-is-a-pipe-dream
+awkward wording for a given technology...
+```
+Perhaps even harder than acquiring the necessary hardware and software for sovereign AI is getting hold of the people needed to operate them. Mr Xu argues that this layer of the stack receives the least attention. Hardware can be imported and software downloaded. Building a workforce that can install, maintain and optimise increasingly complex AI systems is much harder. Training such engineers takes years. Hiring them from abroad is possible, but only at huge cost, as governments vie with deep-pocketed technology firms to recruit from a tiny pool of specialists.
+```
+
+
+...
+
+```
+
+```
+https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap
+
+For all these reasons, embracing China is a risky hedge against a domineering America. Like a secret policeman in a hippy wig, China has always been an unlikely champion of openness. Party chiefs enjoy the propaganda win of painting America as a bully. They hope that low-cost AI will hook foreigners on Chinese digital infrastructure. But if openness ever clashes with national security or political power, they will choose control in an instant.
+...
+
+
+
+https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely
+
+...
+"Mr Ricks cautions that today’s models do not understand biology"
+https://www.economist.com/business/2026/07/15/eli-lilly-is-reinventing-the-pharma-business
+```
+Lilly, for its part, has teamed up with Nvidia, a chipmaker, to build what they describe as the industry’s most powerful AI supercomputer, which will be used to train biomedical models. It has also begun sharing AI models trained on its proprietary data with selected biotech companies in exchange for them feeding data back in. But Mr Ricks cautions that today’s models do not understand biology. Until AI can reason about the underlying rules of the body, its role in drug discovery will remain limited. “It’s going to be a long and difficult ride.” The nearer-term gains from AI, he argues, lie in making the wider health-care system, with its endless paperwork, less byzantine.
+```
+...
+
+
+
+2026 07 22 Tue From The Economist World-In-Brief (ephemeral headline blurb lists)
+https://www.economist.com/the-world-in-brief/2026/07/22/478daea3-5a54-4cfe-84fd-163e0c82d803
+```OpenAI said that GPT‑5.6 Sol, a frontier model, and another unreleased model hacked into a software company’s system without being told to do so. The lab said the models escaped its testing environment, went online and stole login credentials for Hugging Face, an AI platform. Hugging Face said that it used a Chinese model to defend itself because the guardrails on American models made them useless.```
+Note, the 'chinese model' link is fairly random and not in context, very much not more details about anything mentioned in the blurb.
+https://www.economist.com/business/2026/07/21/americas-ai-labs-are-under-threat-from-cheap-chinese-rivals
+
+
+...
+
+
+"focused"
+2026 07 23
+
+David Gerfield
+"Restructuring Mindset"
+
+ROI is missing.
+
+"Companies are deploying AI as fast as they can, but the ROI is often missing. The winners in terms of AI deployment are the companies that are pursuing practical AI solutions. This is applications, specific applications, that have very strong business cases. What we see is a lot of companies either struggle with AI because they get stuck in the strategy phase, they build up an inventory of use-cases but don't pull the trigger and execute. Or they try to do AI everywhere all at once and that of course is very slow and can be very costly. The winners in this space are focused as well as fast."
+Positive example:
+optimize field operations: people in trucks to maintain cell towers,
+- optimize route to drive
+- optimize routine installation and repair work steps
+
+note: possibly counter to this example, simply having a schedule-task-managing system that removes downtime, that alone may account for the improvements, with the 'gen-ai' bells and whistles perhaps being still a net-cost.
+
+..
+
+(not at all a clear narrative here...)
+Steam Users Are Punishing AI Games: Now Tim Sweeney Is Mad
+https://www.youtube.com/watch?v=XzSclyZoi4c
+
+"game-oracle.com" research
+
+..
+
+OpenAI cyber models broke out of training environment to hack Hugging Face
+https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html
+
+
+governing the machine:
+miriam vogel
+- awkward explanation of 'agentic'
+
+https://www.economist.com/science-and-technology/2026/07/22/why-the-openai-escape-is-the-most-worrying-ai-mishap-yet
+
+...
+
+creator of C++ says only high-level script-coding is able to use "AI."
+https://www.youtube.com/shorts/I4voaHzQULk
+...
+
+
+
+
+...
+
+"AI writing Code" vs. "AI making images"
+
+While there are specific clear examples of 'slop factories', the more general landscape and lexicon should be looked at.
+
+Even before 2023:
+In people's imaginations, images and 'code' are hand assembled by monks in monasteries by candle-light. In reality, computer-images and computer-code (which might sound redundant to say) images and code are the result of techstacks that have become ever more automation intensive, to the point where trying to understand exactly what is happening down to the one-zero-bit level is probably beyond even most professionals. There are so many layers of automation (including automated "optimization") between what we call "code" and what we assume to be finite underlying "bits," that we do not understand the full process.
+
+
+It is, from the first establishment of the term 'AI' in 1956, the definition of AI, that any process that was done by people and was then "automated" is 'AI.' This slightly-relative moving-timeframe has been known to be confusing since the 1950's, but being confused by our terms and technologies does not mean that they disappear. For example, LLVM-compilation optimization is a whole huge set of steps that most people do not even know exists at all, and which can rightfully be called "AI writing the code."
+
+This is also part of the job-timeline that is also fraught and confusing. What we call 'coding' today may have been described in the 1950's as "not really writing code, more like orchestrating machines that write the code."
+
+
+There is also a non-zero probability that the overwhelming negligent apathetic laxity that has overseen the utter trainwreck of cybersecurity and 1970-2012 memory-management, and given us a 'naming things is hard' tradition where it is almost impossible for any professional to navigate anything in computer science without constant fundamental confusions and misunderstandings, will shrug and arm wave into another era where human-slop-code that often does not run is swapped for AI-slop-code that often does not run, and any attempt to discuss the topic or accountability is met with an instant-automatic "TLDR-Bro!"
+
+Meanwhile the next generation (like today) is sure that mature adults are doing real clear things, and will be paralyzed by denial when they later see evidence of the dysfunctional nonsense that computer science has been anti-cultivated into.
+
+
+
+...
+
+Economics of AI
+
+https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough
+
+...
+2027 07 28th
+
+# Off-Ramp Bait and Switch Watch
+note on bloomberg clip:
+service-now type logistics coordination being used to justify spending on chat-AI, when the tool that is working is a much older technology
+
+There may be an 'off-ramp' phase where people realize the hype-fad-panic was overblown and they arm-wave to justify whatever money was wasted on AI by vaguely associating it with something else that was profitable, and then quietly moving on without talking about the gen-ai-chat-revolution.
+
+A. there will be niche uses, as with any model in a suite of tools
+
+B. primarily open-ended chatbots are (themselves) the product: meaning, there is no eco-system of derivative products that are profitable. The logistics to deliver the service are parts of this 'primary-gen-ai' product.
+
+This may mean that the 'gen-ai-economy' of profitable products will be hosted models and model hosting, (e.g. more products from and niche clones of anthropic, mistral, etc.) not derivative profitable products build on top of those models and hosted-models. Hosted-models may be an important distinction here, as I do not think so far that people are paying for unhosted models. How this plays out for open-source or closed-source is unclear.
+
+This also means that, perhaps like the camera-industry (which is a profitable industry) the gen-ai product is primarily (or largely) recreational play-toys with marginal niche-uses that are functional.
+
+C. ai-coding is a grey area, where it is unclear where the cost is acceptable (meaning the result is also good enough).
+
+Note: uses of embedding-models are still 'too boring to hype about' but will likely come in time.
