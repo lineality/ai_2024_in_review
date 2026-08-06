@@ -3,6 +3,13 @@ under construction
 # ai_2024_in_review
 
 
+...
+
+economic effects:
+useless for automation
+useful for starting a new business
+
+https://www.economist.com/business/2026/07/27/america-has-become-an-entrepreneurs-paradise
 
 ...
 
@@ -5236,3 +5243,156 @@ This also means that, perhaps like the camera-industry (which is a profitable in
 C. ai-coding is a grey area, where it is unclear where the cost is acceptable (meaning the result is also good enough).
 
 Note: uses of embedding-models are still 'too boring to hype about' but will likely come in time.
+
+...
+
+
+2026 07 29
+
+after years of idiotically trolling apple for not hype-investing blindly in AI-vaporwear fiction word salad, The Economist is 180-degree backtracking and saying, this time based on data rather than mouth-foam, the sanity and long term thinking align with Apple's steadfast refusal to be insanely divorced from reality.
+
+```2026 07 29
+All eyes on the big tech Capex splurge
+
+
+When Meta and Microsoft kick off a round of tech earnings on Wednesday, all eyes will be on the scale of their spending on AI. Investors are on edge; an increase in Google’s capex last week triggered a sell-off in Alphabet shares. Meta may reveal more aggressive plans to increase data-centre capacity. AI spending by Microsoft is also anticipated to rise, alongside that of Amazon, which is due to report its results on Thursday.
+
+The three firms will attempt to convince investors that demand for AI justifies the splurge. Meta reportedly plans to rent out spare computing-power capacity to third parties while using AI to supercharge ads on its platforms. Microsoft expects growth in its AI enterprise business and Amazon in e-commerce ad sales. Both believe their cloud units will do well.
+
+Apple also reports on Thursday. For a while its wait-and-see approach to AI made the firm look like a laggard. The more investors fret about overspending, the more sensible Apple’s caution appears.
+```
+
+
+
+https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough
+
+..
+
+https://www.economist.com/business/2026/07/21/americas-ai-labs-are-under-threat-from-cheap-chinese-rivals
+
+..
+
+odd
+economist reports that Bolcinaros son's compaign is endorced by an ai-video made by jarid bolcinaro...
+
+
+...
+2026 07 31
+Whether this continues to be true past 2026,
+The theme is that for both law and software design, Gen-AI is only useful if you are already a professional in the field, otherwise the half-mangled output does more harm than good. This is likely telling.
+
+...
+
+'AI-Washing' & Looking for the Off-Ramp:
+
+Is "AI" going to be falsely associated with functional non-AI services to dishonestly justify the nonsensical "AI-Summer" Hype madness-of-crowds push to throw magic spaghetti at the wall as a solution in search of a problem?
+
+...
+
+A. Data Science can and should be used.
+B. Production-Data-Science is still immature or nascent with a better understanding years in the future.
+C. There is a psychotic disconnect between what people are saying about "AI" products and reality.
+
+...
+
+Will "2020's AI" be looked back on like "80's Hair", a self-parody style-crime that no one in the future will be able to fully explain?
+
+...
+
+
+Paradoxical New Gloom: 2026 08 03
+
+The two front-page headlines of The Economist are
+1. AI Winter Doom: AI Bust Vaporware junk selloff Will Crash The Economy!
+2. AI Summer Doom: AI Boom Will Take Everyone's Jobs!
+
+
+
+"""
+1. What will Kevin Warsh do if America’s economy breaks?
+An enigmatic Fed faces the risk of AI stocks falling and the oil price soaring
+
+
+2. Job seekers wait in line to enter the Mega JobNewsUSA South Florida Job Fair held in the Amerant Bank Arena on April 30, 2026 in Sunrise, Florida.
+United States
+
+Can America retrain workers before AI leaves them behind?
+Success will require investing in employees as seriously as America invests in chips
+"""
+
+...
+
+Ug, what is the next hype cycle when people get bored with {}AI{}! clickbait?
+Can this end already?
+
+...
+
+
+
+AWS and AI infrastructure:
+- added big ai model co's in 6-months
+- training
+- inference:
+
+...
+
+when a small embedding-vector-head model, general or special-made, can fit into a serverless endpoint
+
+2. on-device, in-app models
+
+3.
+
+...
+
+tools for entrepreneurs
+
+
+,,,
+
+...
+
+"AI" Shell Game
+
+How many people notice that this article is not about Gen-AI?
+Will Data-Science beyond chat-bot-gen-ai be more broadly adopted?
+How does this fit into the overall prospective view of the business-model and economy for AI technologies?
+
+https://www.economist.com/britain/2026/07/30/health-tech-and-ai-come-to-equestrianism
+...
+
+The Rear-View-Mirror-Mindset Problem:
+
+Part of what may be exacerbating clarity about what people are doing with AI may come from the dysfunctionally unbalanced degree to which many people and organizations exclusively focus on and talk about what other people are doing in the rear-view-mirror, such that extended exposure to this mindset developed believes and echo-chamber cultures that elbow everything else out of the person's conscious awareness.
+
+...
+rare good episode:
+https://twit.tv/shows/security-now/episodes/1089?autostart=false
+
+https://www.grc.com/securitynow.htm
+https://www.grc.com/sn/sn-1089-notes.pdf
+
+https://www.grc.com/sn/sn-1089.txt
+still too much hype and arm waving,
+but some solid points
+- defense-uses cannot be offense-guarded: as one in a general class of uses where guarding will prevent intended legitimate use
+- need for better evaluations
+
+Q: Cost of 17k sub-bots?
+...
+
+
+https://www.economist.com/international/2026/07/30/the-restaurant-business-is-changing-beyond-recognition
+A. What technology is being called 'AI' here?
+B.
+
+
+
+...
+
+
+
+https://www.talby.com/p/small-private-and-first-on-all-fifteen
+David Talby
+```
+John Snow Labs’ latest Medical LLM results are in. Across fifteen clinical and biomedical benchmarks, the Medical LLM – Medium ranks first on every one, against the newest frontier releases from OpenAI, Anthropic, and Google. It averages 80.9 to their 76.5, 75.0, and 74.7 respectively. The model that produces those scores runs on a single GPU, entirely inside your own environment, with no external API call. It is licensed per server per year, not per token.
+```
