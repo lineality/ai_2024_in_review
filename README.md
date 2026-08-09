@@ -1,6 +1,6 @@
 under construction
 
-# ai_2024_in_review
+#### ai_2024_in_review
 
 
 ...
@@ -5396,3 +5396,55 @@ David Talby
 ```
 John Snow Labs’ latest Medical LLM results are in. Across fifteen clinical and biomedical benchmarks, the Medical LLM – Medium ranks first on every one, against the newest frontier releases from OpenAI, Anthropic, and Google. It averages 80.9 to their 76.5, 75.0, and 74.7 respectively. The model that produces those scores runs on a single GPU, entirely inside your own environment, with no external API call. It is licensed per server per year, not per token.
 ```
+
+...
+
+Yet another frustrating badly edited article from The Economist. Oi vey.
+https://www.economist.com/leaders/2026/08/06/why-ai-is-a-risk-to-communist-china
+
+...
+
+https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state
+
+https://www.economist.com/briefing/2026/08/06/chinas-ai-drive-threatens-the-worlds-largest-workforce
+
+https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition
+
+https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples
+
+
+
+...
+https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html
+
+https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects/
+
+Note: I do not see what the 'trend' argument is here from these graphs.
+There is no trend-change in these graphs at all, whereas the hypothesis is that "LLM coding" (strangely dated to 2025 in one chart), is supposed to be a trend-change-point.
+https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/
+Also this quote "The LLM will not interact with the developers of a library or tool, nor submit usable bug reports, or be aware of any potential issues no matter how well-documented." strangely contradicts the 2026 complaints that there are too many, and redundant, (not inaccurate) LLM-Agent generated issues-tickets across the industry (companies (bug-bounties), linux kernel, etc.)
+
+https://www.youtube.com/watch?v=h3DlwC1nex0
+
+
+...
+
+
+Mitchell Hashimoto & Ghostty may be an excellent case study in the potentially problematic ambiguity of wording:
+
+A. When Hashimoto read about this codeburg change, 1. Did he, 2. Should he, have spent time (not coding) worrying about if he would be kicked off Codeburg and spent the next weeks in tense meetings?
+
+B. Hashimoto has described how he 1. selectively, 2. extensively, uses Gen-AI to code.
+
+C. Hashimoto has described how he is very far on the 'simple tools' end of the spectrum. He refused to even use any auto-complete until recently. He wants his editor to do as little as possible (e.g. bare vi/vim). And only very slowly, kicking and screaming, is he dragged into anything more than that. For Gen-AI use, he uses only a bare-web-chat-prompt to get ideas: no framework, no agents, no integration. Strictly only ideas from an LLM-chat-bot in a generic web-browser. Code-completion is a very big grey area for this codeberg 'no llm' rule that affects most 'entirely human' code. Hashimoto is in a small minority of (human) coders who would be happen to see all auto-complete/suggestions disallowed, and so if even that is not pure enough for this purity-test, then this purge risks being drastic in who is cut out and who is allowed to stay. If bare-terminal-vi and vanilla-brower using, source-code reading, Hashimoto is not allowed in this select group, then who is? How many people under the age of 70 are more hard-core old-school than Mitchell Hashimoto? Steve Gibson writing assembly language on a PDP-8 would be fine (except for the lack of internet access), but I seriously doubt that most of the people who voted "yes" would be allowed to stay.
+
+D. As Hashimoto studies a language by manually reading the source code for the entire language, he is very much not a superficial software engineer.
+
+Given the more than usual detail that we have from public interviews about how Mitchell Hashimoto works, it should be unambiguous that Codeberg is not going to 'cancel' Hashimoto and Ghostty. They could even use this Hashimoto-model as an example to illustrate and instruct on how it is ok to use various tools.
+
+I am a huge fan of Codeberg, and hopefully a fan this no-passive-vibe-code policy. But I am completely uncertain about what 'zero-tech' code is allowed. I would not be surprised if next week's drama is: "Hashimoto cancelled by Codeberg!" They should clarify this.
+
+
+...
+
+the brainstorm-outline-analogy
