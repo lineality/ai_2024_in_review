@@ -2,6 +2,9 @@ under construction
 
 #### ai_2024_in_review
 
+...
+
+
 
 ...
 
@@ -5448,3 +5451,50 @@ I am a huge fan of Codeberg, and hopefully a fan this no-passive-vibe-code polic
 ...
 
 the brainstorm-outline-analogy
+
+
+...
+
+
+Rare decent article:
+
+https://www.forbes.com/councils/forbestechcouncil/2025/12/30/the-backend-gap-keeping-ai-stuck-in-pilot-mode-and-how-to-break-through/
+"""
+1. Outdated And Fragmented Architectures
+2. Workflows Built For Pilots, Not Production
+3. Insufficient MLOps And Observability
+4. Fragmented Governance And Ownership
+The Takeaway: Every technical gap described above eventually shows up as unreliable products, brittle workflows or rising costs.
+"""
+
+Small Models!
+https://www.economist.com/middle-east-and-africa/2026/08/06/an-african-vision-of-artificial-intelligence
+
+
+
+...
+
+https://twit.tv/shows/security-now/episodes/1090
+- The Genie in the Lamp
+
+
+More lack of evidence of AI-based layoffs
+https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence
+
+
+Damning Portrait of Hype
+https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts
+
+
+
+https://www.economist.com/insider/inside-tech/the-man-putting-self-driving-cars-on-britains-streets
+
+
+
+
+https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai
+- another muddled article and misleading title. There should be less art, Polonius.
+
+https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals
+
+https://www.economist.com/culture/2026/08/06/the-problem-with-ai-companion-toys-for-children
