@@ -5498,3 +5498,5 @@ https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better
 https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals
 
 https://www.economist.com/culture/2026/08/06/the-problem-with-ai-companion-toys-for-children
+
+https://www.economist.com/business/2026/08/11/nvidias-great-silicon-showdown
