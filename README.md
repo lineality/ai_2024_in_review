@@ -5500,3 +5500,110 @@ https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-tr
 https://www.economist.com/culture/2026/08/06/the-problem-with-ai-companion-toys-for-children
 
 https://www.economist.com/business/2026/08/11/nvidias-great-silicon-showdown
+
+
+
+
+
+
+
+...
+
+This Economist article echoes rising concern about rushed AI / Data Science, but without detail. Here are eight specific problems and recommendations for teams and leaders:
+
+
+Problems & Recommendations:
+
+1. Do not rush and skip Production Data Science planning, workflow integration, best practice, and data-driven development. Look at how production Data Science is being handled, even a non-technical project-manager can start such a process audit. As tech-stacks and workflows evolve, challenge existing teams to learn and collaborate as novel Production Data Science scope needs to be understood and handled carefully.
+
+2. Be wary of problems that are not properly defined and cases of 'a solution in search of a problem,' such as proposing to use 'AI' as a magic solution applied when there is no clear 'problem' being solved. This does not always mean that there is no task, ask, or pain point, but it is a mistake to try to use 'magic ai' to make an undefined or under-defined problem go away. For example, if a ticket says that a user reports "it doesn't work," with no other information, that lack of definition cannot be overcome by using 'magic AI.' This may be parallel to the situation of a rogue manager giving incoherent or illegitimate tasks to an employee or intern; if such a task is given to generative AI the result will be more work and tech-debt in the future. A helpful rule of thumb may be that using software, Data Science, or AI can be appropriate where that task is already entirely understood and competently performed by people. If the situation is that no one knows how to interpret or start on the task, it is unlikely that an automated solution is going to be cheap, quick, and effective.
+
+3. Avoid lazy and spendthrift engineering that throws vague, expensive, immature solutions at production problems, and avoid rushing internal use of AI tools that do not correctly manage privacy and security. This is not an argument against doing R&D, supporting academic research, or meant to discourage novel projects such as Google's famous "20% time" rule. But broad security issues around open-ended "agents" often comes back to defining, or not being able to define, the intended scope of functionality. A consistent pattern (as of August 2026) is that the long term cost of 'magic agentic solutions' keep getting "unexpectedly" higher in ways that should not have been a surprise: A. total token costs B. hardware and setup costs C. infrastructure costs, D. legal-regulation related costs, and now E. security related costs.
+
+4. Avoid a culture of crowd sport-thrill and gambling, and instead cultivate a culture of STEM, best practice process, and embracing data (where feedback and data that you receive may or may not confirm perceptions and desires).
+
+5. Be wary of a theatrical embrace of hollow branding buzzwords such as "AGI," "Agentic," and "Harness." Instead, do the unglamorous homework and invest in concrete planning for, discussions about, and evaluations of problem-spaces, architectures, costs.
+
+6. Thoughtfully work out how to apply specific Data Science tools for specific tasks, from GOFAI, to statistical parametric models, to vector embeddings, to generative output. Use tools where and for what they make sense to use.
+
+7. Do not contribute to the distorted-demand for junkfood clickbait hype, vote with your wallet for high quality publications and meaningful discussions.
+
+
+
+https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users
+
+
+
+...
+
+
+Bad journalism is making a farce of both pro and anti AI sentiments, perhaps leading to an unconstructive overall nihilism.
+
+
+
+"Such unpredictability is too much for many firms to handle. “All you have to do is get snake-bitten once and you’d never go back,” says Jared Sine of GoDaddy, an internet firm trying to help bring order to the chaos."
+
+"Another drew a contrast between the amount of knowledge LLMs have about quantum physics, and their inability to order a burrito."
+
+https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users
+
+As of 2026.08, the term "harness" mentioned in the above article, is not entirely clear, and seems to some extent to be yet another term like 'agentic' that is more or as much as part of the drama-pagentry than it is a description of a repeatable engineering process.
+
+For example, the term is not clearly different in meaning from 'the entire system you are deploying', in which case it is another phantom-reification that does not really even attempt to refer to anything that did not already exist, perhaps like adding 'new and improved,' or 'original,' or both, to the exact same product and label.
+
+When tech professionals cannot make sense of these 'flourishes of branding' the confusion caused among non-technical consumers is likely significantly problematic. Going back to the article: how many leadership decisions about investing in AI are based on either technical or non-technical not-real-fantasy confusions about what they are trying to deploy?
+
+As another perhaps not obvious note: the usually horrible reporting by The Economist on 'AI' is predominantly stupidly attempting to chase whatever the trend in the rear-view mirror is. If people are reddit are trolling Apple for not building more AI data centers, they mindless parrot the trolling. If mouth foaming crypto-bros are screaming about AI-dominance, they apathetically follow suit. When those trends flip back and forth to opposite trolling, they follow in the self-contradiction with a straight face. Now they are writing a rather fully article about the coming doom-doom AI-winter doom. For example, their Jared Sine quote is used to arm-wave some vague bad-ish stuff, but there is zero attempt to explain even what the quote was talking about on the surface level, let alone explore details meaningfully.
+
+
+
+https://www.infoblox.com/news/news-events/press-releases/infoblox-and-godaddy-support-open-standards-for-ai-agent-discovery-identity-and-verification/
+
+...
+
+
+
+quagmire case-studies:
+
+View Alexander Schultz’s profile
+Alexander Schultz
+
+  • 2nd
+
+Senior Software Engineer | AI & Computer Vision | Robotics | Cloud & Embedded Systems
+
+1d • Edited •
+
+
+Follow
+Years ago I wanted my garage door to open by itself when I rode home late at night from teaching. I didn't want to climb off the bike and punch in the keypad code while my Harley sat idling and half the neighborhood tried to sleep.
+So I built a service on a Raspberry Pi, soldered a transistor across the button pads of a spare remote, and wrote a companion mobile app that used geofencing to trigger the door as I got close. Roll up, roll in, park.
+It had two blind spots. I didn't know whether the door was already open before triggering it, so if one of my kids had I'd left it open, the geofence would helpfully close it as I rode up. And I had no way to check the doorway was clear before it moved.
+Fast forward to today: the bike's gone, but I've wanted to fix those blind spots for years. With Claude I got it done in a fraction of the time it would have taken me alone.
+I now have a dashboard that gives me a status of the garage including the temperature, humidity, and a picture of the door taken every 5 minutes. I'm using a small CNN classifier model (MobileNetv3) to run on every camera capture which reports the actual state of the door.
+The rest of the build, all on one Raspberry Pi:
+→ .NET 10 + React 19, SQLite, SignalR real-time push
+→ DHT11 temp/humidity with calibration against reference readings
+→ PIR motion sensor → auto-recorded clips
+→ Live MJPEG stream and timelapse
+→ PIN + JWT auth with rate limiting on the door endpoint
+
+Code's public: https://lnkd.in/g8T4CqD7
+#RaspberryPi #dotnet #IoT #EdgeAI
+
+
+...
+
+2026.08.19 Wed
+Jason Furman
+https://www.hks.harvard.edu/faculty/jason-furman
+Strange word salad response to a simple question:
+Q: Is 2026 like 2000, is there a bubble?
+A: There are two questions
+1. Will AI boost productivity: yes, the sky is the limit.
+2. Can companies monetize the gain in productivity? Maybe not, because six month old models or open-weight models can be used in the place of Frontier API.
+[audio saved for ObjRxSpc]
+
+(???????????)
+
+...
