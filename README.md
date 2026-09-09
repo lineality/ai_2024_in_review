@@ -4,6 +4,10 @@ under construction
 
 ...
 
+Tech-Stack Mismatch and Technology Artifacts: GPU-Frnezy, Francois Chollet on hardware-bias in research, and floats vs. Tsetlin Machines
+
+
+https://github.com/KhaledSharif/TsetlinMachine 
 
 
 ...
@@ -219,6 +223,7 @@ We have...a not short investigation in front of us. To some extent it can be map
 are foundation models another category: 
 - memorization...of concepts?
 
+-- Slot-Machine Psychology: Danger
 
 - No Supervillain AI in 2024
 -- changing stance on throttling being top priority
@@ -5746,3 +5751,66 @@ The important thing is that you use as many tokens as possible; the rest is just
 """
 
 ...
+
+"Tokens in the stream"
+https://twit.tv/shows/security-now/episodes/1093 
+- as I have been writing about for years...
+
+
+
+...
+
+Francois Chollet (creator and developer of Keras, the official FrontEnd of Tensorflow) pointed out (perhaps in other places, but at least in (his book) 'Deep Learning with Python, 2nd Edition', that preference is given to models that do best on currently-available hardware
+
+...
+
+Slot Machine Psychology & The Problem Space of AI Adoption
+2026 08 29
+
+The Danger of Slot Machine Psychology (where some, most, people are addictively attracted to types of processes that have random (maybe good, maybe bad) outcomes)
+Something that did not change between 2023 and 2026 is the dice-roll/slot-machine aspect of using a generative AI (here in a context of Coding). Every time you elect to 'generate output' it is 
+A. impossible to predict if this will turn out to be two steps back, one step forward, one step back, or two steps forward.
+B. while isolated cases are constructive, it is continually deeply unclear whether a net-net audit of all cases would be net-positive or net-negative. 
+
+While on the margins models have arguably gotten slowly incrementally ~better, better models have A. become more than incrementally more expensive, and B. 'better' models are perhaps still uniformly half-able to perform a larger circumference of tasks. The 1/10 tries (or best out of K tries) academic way of evaluating systems is problematic in real life where a 1/5 or 1/20 change of having a not-problematic-output means that over time you are drowning in a growing majority of tech-debt and backlog-fix-needs (while academically this is seen as measurable significant success). And while the risk-chance for paying much much more goes down-ish, the only clear net result is the higher cost.
+
+There is perhaps a lurking danger in this, where, while I myself am deeply repulsed by the prospect of rolling danger-dice for a project, it is undeniable that either large portions or a majority of people (homo sapiens) find this random-risk-prospect to be addictive and irresistibly attractive.
+
+Aside from product-evaluation issues, decision auditing (we know from the 2006-leman-shock financial crisis that many in the public and private sector will risk other people's assets on their own person compulsive attraction to the thrill of risk) and demand distortion (consumer demand being higher for short-term-impulsively-attractive features of inferior products that harm them in the longterm), this also potentially raises the legal-regulation question of whether use of generative (but not embedding or other types of) models could geographically fall under regulations for either 'gambling' 'gaming' or addictive products (including measures such as age regulation).
+
+...
+
+"Cost Plateau"
+Given the rate of cost-rise, while ever-more-expensive models are marginally improving, have affordable models mostly plateaued?
+
+...
+
+Will There Be Enthusiasm for Better Smaller Models?
+
+I am optimistic that low-cost models and solutions will continue to get better, but this is only a hope/guess. I would be nice, but it is unlikely that the consistently hype-cynicism based 'pump-and-dump' approach that journalism and business are taking to push 'gen-ai!' as long as they see it as a vaporwear fad, 
+
+UK-spending note:
+
+https://www.gov.uk/government/news/new-partnership-set-to-see-the-uk-and-ukraine-develop-battle-winning-technology-as-britain-secures-access-to-ukraines-avengers-ai-labs
+"The project, which uses Ukrainian data and UK technology, turns buried fibre-optic cables into a giant AI-enabled sensor. As well as military bases, the technology could be rolled out to protect airports, prisons and even railways and energy plants in the future.
+
+The second project will see the UK and Ukraine explore the development of next-generation low-power AI chips designed to power future drones, robotics and autonomous systems.
+If successful, the technology could underpin a new generation of intelligent machines capable of operating for longer, responding faster and functioning in environments where conventional systems struggle."
+
+
+...
+
+
+https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders-do
+
+
+...
+
+recorded and archived
+bad_tomgiles_bloomberg_20260908
+Terrible Tom Giles interview on bloomberg 2026 09 08th
+Pure clickbait around all-powerful purely accelerating AI can do everything etc.
+
+...
+
+
