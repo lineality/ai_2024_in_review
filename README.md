@@ -5813,4 +5813,13 @@ Pure clickbait around all-powerful purely accelerating AI can do everything etc.
 
 ...
 
+https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here 
 
+..
+
+https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning
+
+https://www.economist.com/graphic-detail/2026/09/03/the-ai-boom-is-coming-for-your-gadgets (note: terminology and chart labels are not easy to compare)
+
+
+https://corticallabs.com/cl1
