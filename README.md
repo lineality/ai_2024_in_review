@@ -9,6 +9,16 @@ Tech-Stack Mismatch and Technology Artifacts: GPU-Frnezy, Francois Chollet on ha
 
 https://github.com/KhaledSharif/TsetlinMachine 
 
+...
+
+The driverless-car safety paradox for AI-generated Code: The Empirically Low Bar
+A. AI driving safety (and code safety) is not as high as we feel it should be
+B. Human written code safety (and driving safety) is lower than we think it is
+C. Even most-common unsafe AI-generated code is safer than most human written code.
+
+E.g.
+See Casey Moratori in 2021 (before gen-ai) about ideological slop in code, 
+See P.J.Plauger in 1986-1993 on the ~there is no known way to make software work, it may, it usually fails, any solution-theory is "snake oil"
 
 ...
 
@@ -5822,4 +5832,209 @@ https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-l
 https://www.economist.com/graphic-detail/2026/09/03/the-ai-boom-is-coming-for-your-gadgets (note: terminology and chart labels are not easy to compare)
 
 
-https://corticallabs.com/cl1
+https://corticallabs.com/cl1 
+
+
+---
+
+Stockfish Generative Rationalizations - "Eleven buckram men grown out of two"
+2026.09.11
+
+"Top mathematicians are outraged by OpenAI’s methods
+24 Fields Medal winners have written a letter of objection"
+https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods
+
+In another appallingly written article about 'AI' from The Economist, the worthy and timely topic of the quality and coherence of Generative-AI explanations (including 'agentic' tasks, 'chains of thought' and 'reasoning') is ignored in the place of trolling Fields Medal winning mathematicians and accusing them actively trying to stop STEM progress. Science-Journalists, I do not only marvel where thou spendest thy time.
+
+Action vs. Rationalization
+
+The topic of whether there is logical coherence in what a generative model brainstorms is a very, very legitimate topic. And we should be 100% clear, this is a topic, not a question. AI output is fundamentally incoherent at the same time as being part of the same process that is capable of producing specific functional-enough output. This can be seen in normal coding tasks that you might consider as a baby version of a mathematical proof (assuming there is a computable-test of that proof working). Parsing these interdigitated details, as everyone should at least once take the time to do, is a big measure of what makes working with AI such a tedious and frequently regressive process. 
+
+There is a disjunction between an instrumentalist-practical use of a highly noisy but near-often-enough 'good enough' stochastic process and a semi-anthropomorphizing realist ideology that sees 'AI' the way that some (anachronistic) people want to see themselves: as 1970's-style "rational" calculators in an 1800's clockwork world (aside from the fact that this technology is sub-symbolic by definition: details, details).
+
+
+To start with a side example:
+Children below a given age can do a lot and say a lot but are physiologically incapable of various kinds of recall and reasoning. Let's say that after a young child does X,Y & Z events and tasks on a family trip, you then interview the very young child to extract an absolutely true logical account of exactly what happened including the plans, motivations, perspectives, and actions of various parties. The events did happen; that is not in question. But the verbal description of those real events, by the person who did them, are going to be a twisted incoherent mix of some facts (maybe), some fantasies, some misunderstanding, and a whole lot of inexplicable (and probably charming) noise. This may or may not be a bad analogy in the sense that most children (or some children?) do grow up to be able to give a coherent account of what they do and experience (though trial witness investigators may strongly disagree there); it is unclear whether the 2026-technology, or some offshoot of it, can in principle do so. (And that 'or offshoot' detail may matter, because this 'argument' is about a specific technology (the Fields Medal winners were not saying the human brain should not be allowed to work on proofs).)
+
+
+Given that you have any non-trivial (or sometimes even a very trivial) coding task you can easily see this plum-pudding/functional-parts-in-mucus process in action, especially if the model provider does not hide the 'reasoning' (a.k.a. wildly incoherent and inconsistent brainstorming) from view. (Was the entirety of the 'reasoning' provided along with the provided proof? "A question to be asked.")
+
+That a generative 'AI' can perform a task is a sufficient goal (and reason to celebrate) in and of itself. The main issue-problem here is to either assume or to insist on an unhinged fantasy that the word-salad (and often numerous failed attempts) surrounding the final 'works-enough' product has, or must have, coherent meaning. If there are any threads of coherence, then that is another surprise 'big win' to celebrate. But assuming the verbal diarrhea is wisdom because the functional-bits now work is a catastrophically dangerous institutionalization of mental apathy. Anyone can, and everyone should, easily demonstrate this for themself using any available model. Repeatedly ask for explanations and read the words; sooner or later you will find the yarn-spinning nonsense.
+
+
+
+What you will eventually see when you ask a model to suggest a solution to a coding problem and to describe that solution, usually involving multiple steps (which may be a significant point here because each next iteration is not the 'same' AI commenting on the 'same' problem state) is a maybe very very superficially somewhat ok sounding narrative woven out of broken references and claims, and, like when a child is asked why they lied, the lies then become (in the term used to describe Falstaff's lovable antics) more "monsterous." This feature of invention is not diminishing as models get ever larger, more expensive, and more capable of making shiny-things.
+
+
+As to the 'argument' that 2026 is still early days and that models will get 'better,' that may or may not be a relevant question (it may be, or it may not be). Clockwork reasoning is not even supposed to be what sub-symbolic models are doing on any level and in any way; it is fundamentally not how language-concept-soup models work. Can we maybe train unbelievably expansive models to have marginally more coherence? Probably. Enough coherence? Maybe. But where does this agenda come from? And, perhaps like zeno's approach paradox, will any amount of lipstick change the fact that this is fundamentally not a clockwork technology regardless of how much illiterate fanticists want it to be. And does this side-quest about (what exactly?, seeking to materialize a nineteenth century concept of the rational?) have to do with the call by the mathematicians and the attack on them by journalists?
+
+We do not understand exactly how this 'lumpy soup' process works, how the meat can be ok and how the broth is so rotten. We should encourage research into this, and that includes the duty of Journalists (one part of a liberal civil society) to support Academia (another fundamental and vital institution within the civil society of a liberal ecosystem). But, again, the goal of the technology is the working code part, not the drivel part. The real imperative is to come up with more strange gimmicks (hopefully with clearer names) like "reasoning" (we should not be too surprised that people interpreted that as it sounds) to boost productive output, not to ideologically chase a fictional-goal of pure clockwork "reason." 
+
+Recap Summation:
+Saying that 'AI' should not ever be asked to produce a proof is probably too extreme (and probably un-enforcable), but cautioning about the explanation and understanding of that proof is highly relevant. When AI writes code that runs, that same AI process is unable (perhaps by design) to provide a coherent or accurate explanation of what it did, how it did it, and how the solution works. When AI provides a testable math proof it likewise is producing something with value and something that is worthy of study, and the accompanying Gen-AI "explanation" of that proof will be noisy. If a human produced a valid proof mechanism and an explanation of it that contained incoherent noise, it would be fitting if leadership called into question the "method" of finding and presenting that proof (how could they not?). The case here is significantly starker, and so is the perverse rebuke of the mathematicians.
+(In an article published after the above essay was written, there are a number of references to 'chain of thought' and 'reasoning' that should be examined more closely.) 
+https://www.economist.com/international/2026/09/15/agreeing-to-make-ai-safer-may-be-impossible 
+
+https://www.folger.edu/explore/shakespeares-works/henry-iv-part-1/read/2/4/
+
+```
+PRINCE  What, fought you with them all?
+FALSTAFF  All? I know not what you call all, but if I
+fought not with fifty of them I am a bunch of
+radish. If there were not two- or three-and-fifty
+upon poor old Jack, then am I no two-legged
+creature.
+PRINCE  Pray God you have not murdered some of
+them.
+FALSTAFF  Nay, that’s past praying for. I have peppered
+two of them. Two I am sure I have paid, two rogues
+in buckram suits. I tell thee what, Hal, if I tell thee a
+lie, spit in my face, call me horse. Thou knowest my
+old ward. Here I lay, and thus I bore my point. Four
+rogues in buckram let drive at me.
+PRINCE  What, four? Thou said’st but two even now.
+FALSTAFF  Four, Hal, I told thee four.
+POINS  Ay, ay, he said four.
+FALSTAFF  These four came all afront, and mainly
+thrust at me. I made me no more ado, but took all
+their seven points in my target, thus.
+PRINCE  Seven? Why there were but four even now.
+FALSTAFF  In buckram?
+POINS  Ay, four in buckram suits.
+FALSTAFF  Seven by these hilts, or I am a villain else.
+PRINCE, to Poins  Prithee, let him alone. We shall have
+more anon.
+FALSTAFF  Dost thou hear me, Hal?
+PRINCE  Ay, and mark thee too, Jack.
+FALSTAFF  Do so, for it is worth the listening to. These
+nine in buckram that I told thee of—
+PRINCE  So, two more already.
+FALSTAFF  Their points being broken—
+POINS  Down fell their hose.
+FALSTAFF  Began to give me ground, but I followed me
+close, came in foot and hand, and, with a thought,
+seven of the eleven I paid.
+PRINCE  O monstrous! Eleven buckram men grown out
+of two!
+FALSTAFF  But as the devil would have it, three misbegotten
+knaves in Kendal green came at my back,
+and let drive at me, for it was so dark, Hal, that thou
+couldst not see thy hand.
+PRINCE  These lies are like their father that begets
+them, gross as a mountain, open, palpable. Why,
+thou claybrained guts, thou knotty-pated fool, thou
+whoreson, obscene, greasy tallow-catch—
+FALSTAFF  What, art thou mad? Art thou mad? Is not
+the truth the truth?
+PRINCE  Why, how couldst thou know these men in
+Kendal green when it was so dark thou couldst not
+see thy hand? Come, tell us your reason. What sayest
+thou to this?
+POINS  Come, your reason, Jack, your reason.
+FALSTAFF  What, upon compulsion? Zounds, an I were
+at the strappado or all the racks in the world, I
+would not tell you on compulsion. Give you a
+reason on compulsion? If reasons were as plentiful
+as blackberries, I would give no man a reason upon
+compulsion, I.
+PRINCE  I’ll be no longer guilty of this sin. This sanguine
+coward, this bed-presser, this horse-backbreaker,
+this huge hill of flesh—
+FALSTAFF  ’Sblood, you starveling, you elfskin, you
+dried neat’s tongue, you bull’s pizzle, you stockfish!
+O, for breath to utter what is like thee! You tailor’s
+yard, you sheath, you bowcase, you vile standing
+tuck—
+PRINCE  Well, breathe awhile, and then to it again, and
+when thou hast tired thyself in base comparisons,
+hear me speak but this.
+POINS  Mark, Jack.
+PRINCE  We two saw you four set on four, and bound
+them and were masters of their wealth. Mark now
+how a plain tale shall put you down. Then did we
+two set on you four and, with a word, outfaced you
+from your prize, and have it, yea, and can show it
+you here in the house. And, Falstaff, you carried
+your guts away as nimbly, with as quick dexterity,
+and roared for mercy, and still run and roared, as
+ever I heard bull-calf. What a slave art thou to hack
+thy sword as thou hast done, and then say it was in
+fight! What trick, what device, what starting-hole
+canst thou now find out to hide thee from this open
+and apparent shame?
+POINS  Come, let’s hear, Jack. What trick hast thou
+now?
+FALSTAFF  By the Lord, I knew you as well as he that
+made you. Why, hear you, my masters, was it for
+me to kill the heir apparent? Should I turn upon the
+true prince? Why, thou knowest I am as valiant as
+Hercules, but beware instinct. The lion will not
+touch the true prince. Instinct is a great matter.
+I was now a coward on instinct. I shall think
+the better of myself, and thee, during my life—
+I for a valiant lion, and thou for a true prince.
+But, by the Lord, lads, I am glad you have the
+money.—Hostess, clap to the doors.—Watch tonight,
+pray tomorrow. Gallants, lads, boys, hearts
+of gold, all the titles of good fellowship come to
+you. What, shall we be merry? Shall we have a play
+extempore?
+```
+
+...
+2026.09
+
+Problems with Modeling Semi-Labeled Datasets
+
+How modeling mislabeled-ambiguity and unidentified-disinformation can lead to goal confusion
+
+1. The idea of a 'golden dataset'
+
+2. The difference between predicting a deliberately misleading label, predicting a commonly idiosyncratically incoherent label, and predicting a quorum-passible coherent label.
+- the difference between a no-context small model and a massive 'study of humanity' model.
+
+
+3. Evolving data, code-testing, and issues with a simplistic idea of a single gold dataset
+
+The case study of IMDB two-labeled data:
+- no neutral
+- no vetting
+What is the goal of the model?
+
+...
+
+---
+
+Maybe a tangent, or maybe not:
+Casey Moratori
+"Where Does Bad Code Come From?" Molly Rocket Nov 2, 2021
+https://www.youtube.com/watch?v=7YpFGkG-u1w 
+
+
+
+
+switching from micro-controllers to central-computers...
+https://www.economist.com/business/2026/09/07/chinese-carmakers-are-bringing-their-factories-to-the-world 
+various themes and unknowns in 2026:
+- Is the Chinese car industry a sustainable model or model of business?
+- How many areas of Chinese electric car manufacturing are shaped by some form of subsidy or other state-action? 
+
+..
+
+
+..
+
+State of the bubble:
+https://www.youtube.com/watch?v=9WjPdgOK-68 
+
+
+
+...
+
+The legal regulatory landscape 
+
+...
+
+
+james brown developer voices
+https://www.youtube.com/watch?v=JCPrxKse4YQ
