@@ -6206,4 +6206,74 @@ https://en.wikipedia.org/wiki/Conway%27s_law
 
 
 ...
-https://www.economist.com/business/2026/09/23/agent-of-whom
+https://www.economist.com/business/2026/09/23/agent-of-whom 
+
+
+---
+
+On Resources for Basic Coding Practices
+2026.10.01
+When I was doing some light digging on the topic of writing up a comparison on manual loop unrolling in Rust, Zig, Odin, c, and Assembler, I noticed something potentially curious in the search results from google when looking up examples of how people unroll loops in Rust.
+
+(For background context: Issues with LLVM in compilation are a constant background topic across other topics, with the pending inevitable 'how do we replace LLVM because this nightmare is getting worse and it wasn't ever supposed to happen this way)' set of issues being ever more common.)
+
+When I looked up in google "unwinding loops in rust":
+https://www.google.com/search?q=unwinding+loops+in+rust
+(Note, each 'ai' answer by google is different. Later searches for the same were much less pointed; to some extent it was a 'bad luck tail risk' answer in terms of tone, but the overall pattern (or 100% of answers I have seen) focus one way or another on unwinding being something that LLVM does, not as topic of something done by a person using the language.)
+
+There were two parts to the ai-summarized-search that google answered with, paraphrased here (I did not save the exact text):
+
+1. Pedantically droning on saying that ~"Actually what you are trying to refer to is really correctly called 'Unrolling' "
+[Note: The two terms are arbitrary and mean the same thing; text books from before 2022 (the ai-slop year) use both terms often in the same paragraphs overtly as synonyms.)
+ e.g. In a version of this search the first link suggested is to rust docs that use the term 'unwind' 
+https://doc.rust-lang.org/nomicon/unwinding.html]
+
+2. "Actually, LLMV does this automatically obviously does a better job than you could trying to do it 'by hand', and this process should be hidden and you shouldn't think about it and you shouldn't do it because this is totally a solved problem so just let LLVM take care of that for you and focus on your own work and stop asking stupid questions that your exposed your skill-issues."
+
+
+While not usually this pronounced for 'frontier models' (vs. hand-made models on hugging-face trained on flame-war stack-overflow posts that are 'hilariously' rude), this may suggest a possible overall problem for resources available to students. Arguably the internet is the lions-share of access to information about coding (with printed books being arguably super-important but also (arguably) a 'necessary but not sufficient' resource (as is overtly stated in the K&R-C-2nd-ed book: (paraphrased) 'you will have to somehow find and ask a person who knows (something that you cannot find information about, especially regarding compilers) in order to complete your real world project', which has not changed since the 1970s especially (if especially ironically) for c).
+
+Is there (if only in some areas) a potential problem where the 'wisdom of crowds' approach to recommending aggregate advice is not working, perhaps in a way similar to how Francis Fukuyama points out the tension between populist-outrage fueled by the largest, least-proficient group of people vs. "technocratic" specialists who have specialty training and experience in a specific technical domain?
+
+More abstractly, this might be a problem for the (I suspect more lofty than people in 2026 assume) goal of having AI start to self-engineer and master software.
+If this (possibly isolated) case is an indication, then 'super-intelligent' gen-AI coding may be overwhelmed by (or face a significant headwind from) the 'madness of crowds' moreso than the 'wisdom of crowds.' 
+
+This might also be significant in terms of identifying ~'root causes' (meant loosely, not in a jargon way here as there is academic wrangling over that term) of AI generated code being exceptionally bad in ways that are especially similar to human fads, trends, and general bad habits (such as laziness). 
+
+The presumption seems to usually be that poor performance is generally and broadly within the same 'make the scale of learning bigger' mode that OpenAI has popularized and levaged for many years ( keep increasing scale of training and performance keeps getting better), 
+ that AI has not been trained on enough reddit-posts and stack-overflow flame wars and apathetic politically-motivated grant proposals. But what if the insecure, bloated, reification-seeking, bad-habbit filled gen-ai code is deliberately (not accidentally) designed that way, because that is what most of the internet-ranting supports? 
+
+To yet again reiterate: there seems to be persistent opposition (beyond 'confusion') to people admitting or learning that attention-'transformer'-gen-ai is based on sub-symbolic concept-modeling, NOT science-fiction beep-boop deterministic 'symbolic' calculation. That language-concept-models can discuss and 'kind of do' some calculation is highly interesting and potentially net-net-useful (that is still theoretical in 2026).
+
+And, yet again: it may be helpful to look at gen-ai as a kind of improved search of what exists in publication, as opposed to an 'individually-anthropomorphized' or 'deterministically-calculated' output. For example: while it is tempting to think that a 'super super super x 1000' sci-fi-AI will get better at programming with 'more training', it may sound less feasible to suggest that a better search engine, searching the same mostly-bad posts, will somehow produce a more technically refined query result. 
+
+And maybe the least-worst approach is to marginally hedge and try to make the result less-bad, we may still be in the same overall situation: a mountain of bad data and a race to 'search' in better ways. Where education and 'pollution' and 'disinformation' are, yet again, recurring themes. Why is there an agenda to either ignore or exacerbate a degenerate state of publishing and education when that is very clearly a significant underlying problem with negative downstream effects? If good-data and good-learning are so clearly so valuable, how is there so much adamant refusal to acknowledge that investing in the positive productive value-function-and meaning of the positive valuable, meaningful, function assets is, tautologically, a positive meaningful function asset with value? 
+
+
+
+"In people's heads", The "Medaeval Guilds" Problem 
+As Bill Hall and Ryan Fleury agree in their Double Interview with Lukasz Sciga
+https://www.youtube.com/watch?v=ES5_IWG8rcw 
+Somehow, from the 1970's to the the later 2020's, there is only one decent guide to programming in C: Casey Muratori's 2014 'handmade heros' series of videos, that all other useful and accurate information about programming is "in people's heads" (and every year more of those people pass away or suffer mental decline from age).
+
+Note: Casey Muratori has said (https://www.youtube.com/watch?v=jHLbL1Eg4gM) that it was not until 2015 (which is after 2014) that he started properly learning and studying the assembly language level of coding.
+
+As another note: Many of the people who ~built these tools (Keith Tompson, Dennis Richies, Brian Kernigan, etc.) are still alive and working in the 2020s, but somehow they are not actively involved or sought in this very high stakes set of international issues.
+
+Even in 2026, we seem to be too much stuck in the pattern of STEM skills and knowledge being trapped in zero-sum turf wars between proverbial Medaeval Guilds of practitioners who for job security and spite keep what they know undocumented and untaught to their grave.
+
+A particularly perplexing example of this mind-set problem is Steve-Gibson, who is both one of the 'last of the greats' programing in assembly language, also one of the 'last of the greats' of the generation the build the history of current technologies, and also a very rare and precious example of someone who has dedicated a huge amount of his time to documenting and explaining security and performance related programming in his long running 'security now' podcast with transcripts and documentation for episodes (a very important resource), and yet
+he flatly, overtly, completely, point blank, repeatedly, refuses to teach the subject of how people can/should properly code in assembly language (despite daily extolling the virtues). Unless he changes his mind and builds an educational course and tool set, the 'in his head' knowledge that will be lost when Gibson eventually passes away will be a potentially 'fate of the earth' scale loss of critical information. 
+
+Unlike the Unix giants, Gibson is and has been, thankfully, very active in constantly teaching and interacting. But the missing topic of programming languages and assembly language in what he is willing to discuss looks like it might be yet another foreseeable yet inscrutable catastrophe of history. Is it job-security? Is it... a feeling of being the only one who knows and therefore feeling special? What could it possibly be that is preventing him from talking about his primary domain of expertise?
+
+
+---
+
+Anthropic was using a single-threaded python techstack in 2026.
+This should have been an international news scandal.
+There is more perversity in this scenario than is possible to imagine.
+https://www.youtube.com/watch?v=8xBJPa_480Q
+
+
+---
