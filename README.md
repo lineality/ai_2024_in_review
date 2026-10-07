@@ -6277,3 +6277,17 @@ https://www.youtube.com/watch?v=8xBJPa_480Q
 
 
 ---
+
+
+---
+
+2019
+Coming into View: How AI and Other Megatrends Will Shape Your Investments
+Joseph H. Davis
+https://www.amazon.com/Coming-into-View-Megatrends-Investments/dp/B0FDCHT6HH/
+
+Knowledge Management: Organizational and Technological Dimensions
+by Joseph Davis
+https://www.amazon.com/Knowledge-Management-Organizational-Technological-Dimensions/dp/3790800813/
+
+https://www.economist.com/business/2026/10/06/china-wants-to-get-inside-your-head
