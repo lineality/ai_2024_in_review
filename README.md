@@ -6278,9 +6278,6 @@ https://www.youtube.com/watch?v=8xBJPa_480Q
 
 ---
 
-
----
-
 2019
 Coming into View: How AI and Other Megatrends Will Shape Your Investments
 Joseph H. Davis
@@ -6290,4 +6287,38 @@ Knowledge Management: Organizational and Technological Dimensions
 by Joseph Davis
 https://www.amazon.com/Knowledge-Management-Organizational-Technological-Dimensions/dp/3790800813/
 
-https://www.economist.com/business/2026/10/06/china-wants-to-get-inside-your-head
+https://www.economist.com/business/2026/10/06/china-wants-to-get-inside-your-head 
+
+...
+Recorded on Oct 6th · 28 min 2026
+Joshi says that US military not using Grok, Anthropic cut out
+https://www.economist.com/insider/inside-defence/britains-top-military-officer-on-stepping-up-in-europe 
+- "systems thinking" at end
+
+..
+
+Cost of Compute, and vm compute:
+https://www.youtube.com/watch?v=o4-29oLHU8E
+
+
+Francis Newton (Tittle Capital Management) 2026.10, sounds right.
+
+
+...
+
+
+Note: 
+A notable absence of news or commentary on 'the Bun Re-Write':
+Nearly five to six months (may 19 to oct 9) after the click-baite frenzy over the Bun re-write, there have been (that I have found, actively checking periodically) zero no articles or anything after the initial short-term eyeball-harvest. 
+
+from Google search 2026 10 09th
+```
+cosmicjs.com
+https://www.cosmicjs.com › blog › bun-rust-rewrite-jav...
+May 19, 2026 — Bun is rewriting its runtime in Rust and hit 99.8% test compatibility on Linux x64. Rust rewrite status last verified July 30, 2026. The Rust...
+```
+
+This is arguably an important case-study/mile-stone event in the time, money, computer, organizational, cost of using LLMs for a big project.
+This might end up being moot if five years in the future the tech-stack and conditions are entirely different, but in 2026 this is an important case. The original point was that LLM's could quickly cheaply finally solve a problem, which turned into the standard punt: really it was a bigger, longer, more expensive, program because the original fix was not a working fix, which raises the basic headline question: What then was the real time, money, computer, organization cost? Where are we in 2026? 
+
+It is very strange that while everyone is wondering 'Does AI work?' when evaluating how much of a 1999-bubble 2026-Gen-AI is, that there is zero public discussion of this crucial milestone case-study.
