@@ -6321,7 +6321,7 @@ May 19, 2026 — Bun is rewriting its runtime in Rust and hit 99.8% test compati
 This is arguably an important case-study/mile-stone event in the time, money, computer, organizational, cost of using LLMs for a big project.
 This might end up being moot if five years in the future the tech-stack and conditions are entirely different, but in 2026 this is an important case. The original point was that LLM's could quickly cheaply finally solve a problem, which turned into the standard punt: really it was a bigger, longer, more expensive, program because the original fix was not a working fix, which raises the basic headline question: What then was the real time, money, computer, organization cost? Where are we in 2026? 
 
-It is very strange that while everyone is wondering 'Does AI work?' when evaluating how much of a 1999-bubble 2026-Gen-AI is, that there is zero public discussion of this crucial milestone case-study.
+It is very strange that while everyone is wondering 'Does AI work?' when evaluating how much of a 1999-bubble 2026-Gen-AI is, that there is zero public discussion of this crucial milestone case-study. 
 
 
 https://www.economist.com/culture/2026/10/08/superstar-podcasts-are-silicon-valleys-way-of-talking-to-itself
