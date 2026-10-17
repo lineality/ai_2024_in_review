@@ -6324,4 +6324,25 @@ This might end up being moot if five years in the future the tech-stack and cond
 It is very strange that while everyone is wondering 'Does AI work?' when evaluating how much of a 1999-bubble 2026-Gen-AI is, that there is zero public discussion of this crucial milestone case-study. 
 
 
-https://www.economist.com/culture/2026/10/08/superstar-podcasts-are-silicon-valleys-way-of-talking-to-itself
+https://www.economist.com/culture/2026/10/08/superstar-podcasts-are-silicon-valleys-way-of-talking-to-itself 
+
+
+
+
+...
+
+## "JEV" and "decision models" more broadly
+(structured output vs. architecture...
+LMQL vs. "JEV")
+
+...
+
+## "The battlefield question"
+
+If (usually unspecified "AI") can do what people claim, where do we see this on the battlefield, e.g. in Russia's unilateral invasion of Ukraine?
+
+...
+
+Fantasy, Extremism, Radicalization, Addiction, Habits, & Learning
+
+...
