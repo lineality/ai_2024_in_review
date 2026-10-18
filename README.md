@@ -6346,3 +6346,7 @@ If (usually unspecified "AI") can do what people claim, where do we see this on 
 Fantasy, Extremism, Radicalization, Addiction, Habits, & Learning
 
 ...
+
+https://www.economist.com/china/2026/10/15/china-has-captured-the-market-for-hobbyist-3d-printers
+
+https://www.economist.com/china/2026/10/13/china-is-turning-trash-into-treasure-on-a-vast-scale
