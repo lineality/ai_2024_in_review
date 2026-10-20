@@ -6347,6 +6347,38 @@ Fantasy, Extremism, Radicalization, Addiction, Habits, & Learning
 
 ...
 
+
 https://www.economist.com/china/2026/10/15/china-has-captured-the-market-for-hobbyist-3d-printers
 
-https://www.economist.com/china/2026/10/13/china-is-turning-trash-into-treasure-on-a-vast-scale
+https://www.economist.com/china/2026/10/13/china-is-turning-trash-into-treasure-on-a-vast-scale 
+
+
+
+https://www.economist.com/weeklyedition/2026-10-17
+(note: possibly incorrect reference to "jev" as a router)
+
+https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers
+
+
+https://www.economist.com/business/2026/10/15/is-the-semiconductor-industry-headed-for-an-almighty-crash
+
+https://www.economist.com/business/2026/10/15/ai-neolabs-are-raising-huge-sums-most-have-little-to-show-for-it
+
+https://www.economist.com/business/2026/10/15/spacexs-starlink-expansion-is-a-bold-gamble-on-the-future
+
+...
+https://www.economist.com/weeklyedition/2026-10-17 
+
+
+https://www.economist.com/science-and-technology/2026/10/14/ai-will-make-it-possible-to-design-and-build-organisms-from-scratch 
+
+https://www.economist.com/science-and-technology/2026/10/12/ais-transformation-of-mathematics-is-a-turning-point-for-science 
+
+https://www.economist.com/science-and-technology/2026/10/14/could-ai-help-scientists-with-their-paperwork
+
+https://www.economist.com/science-and-technology/2026/10/14/ai-companies-want-to-become-frontier-scientific-researchers 
+...
+
+Bloomberg Intelligence
+Jeanie Shanzano, no 1st order effects of AI overturning the normal results of an election.
+also: positive impacts of AI: democratizes so that not only elite paid consultants can work on compaigns.
