@@ -6369,6 +6369,9 @@ https://www.economist.com/business/2026/10/15/spacexs-starlink-expansion-is-a-bo
 ...
 https://www.economist.com/weeklyedition/2026-10-17 
 
+https://www.economist.com/by-invitation/2026/10/13/what-congress-can-do-to-prevent-an-ai-catastrophe 
+
+https://www.economist.com/leaders/2026/10/15/what-if-the-machines-take-over-science
 
 https://www.economist.com/science-and-technology/2026/10/14/ai-will-make-it-possible-to-design-and-build-organisms-from-scratch 
 
@@ -6381,4 +6384,10 @@ https://www.economist.com/science-and-technology/2026/10/14/ai-companies-want-to
 
 Bloomberg Intelligence
 Jeanie Shanzano, no 1st order effects of AI overturning the normal results of an election.
-also: positive impacts of AI: democratizes so that not only elite paid consultants can work on compaigns.
+also: positive impacts of AI: democratizes so that not only elite paid consultants can work on campaigns.
+
+...
+
+Generational Perspective Shifts & The Data-Hording Cult of the Early WWW Internet
+
+---
