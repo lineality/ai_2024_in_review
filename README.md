@@ -6389,5 +6389,9 @@ also: positive impacts of AI: democratizes so that not only elite paid consultan
 ...
 
 Generational Perspective Shifts & The Data-Hording Cult of the Early WWW Internet
-
 ---
+
+Cyber
+- Doesn't understand schedules, time, space (state!)
+- China leaks?
+https://www.youtube.com/watch?v=EW0VfiY3YA8&list=PLJnf_DDTfIVAif-vifC6F2aoPB8GIw6dk&index=1
