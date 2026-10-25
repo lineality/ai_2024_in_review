@@ -6401,3 +6401,18 @@ https://www.youtube.com/watch?v=EW0VfiY3YA8&list=PLJnf_DDTfIVAif-vifC6F2aoPB8GIw
 ---
 
 https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both
+
+---
+
+https://www.economist.com/united-states/2026/10/22/how-to-share-the-wealth-from-ai-alaska-offers-lessons
+
+---
+
+https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai 
+
+---
+
+https://www.economist.com/china/2026/10/19/does-china-really-prize-ai-speed-over-safety
+
+
+---
