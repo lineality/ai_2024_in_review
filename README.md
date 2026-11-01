@@ -6425,3 +6425,65 @@ https://www.economist.com/china/2026/10/19/does-china-really-prize-ai-speed-over
 
 
 ---
+---
+
+https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay
+
+https://www.economist.com/business/2026/10/20/personal-ai-assistants-could-soon-reshape-the-digital-economy 
+
+https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market
+
+https://www.economist.com/britain/2026/10/22/how-to-help-your-child-trounce-the-robots 
+
+...
+
+mechanical interpretation
+mechanical interpretability
+mech interp or MI
+https://www.computerenhance.com/p/whats-in-a-token 
+
+
+
+---
+
+
+More sites banning agents from using their website:
+https://www.youtube.com/watch?v=TVRCcMlvR10 
+
+
+---
+(bloomberg)
+Gautam mukunda, yale
+
+6-sigma
+
+less-innovative
+
+(removing variance)
+
+lower creativity and innovation
+
+---
+
+2026.10.30
+## From AI Fantasy-Recreation to AI-Zelotry & Cult-Frenzy
+
+What are the likelihoods that both easily hoodwinked naive and disabled "marks" and willingly-hoodwinked "addicts" will counterproductively go beyond entertainment speculation into a perhaps historically familiar real of defeatedly or ragingly reality-dislocated "beliefs"? 
+
+
+...
+
+
+https://www.economist.com/weeklyedition/2026-10-31 
+
+
+
+
+
+https://www.economist.com/leaders/2026/10/29/let-china-copy-american-ai
+
+https://www.economist.com/letters/2026/10/29/what-does-openais-progress-mean-for-scientists
+
+https://www.economist.com/by-invitation/2026/10/26/the-let-it-rip-camp-is-wrong-on-ai
+
+https://www.economist.com/by-invitation/2026/10/28/ai-is-a-technological-version-of-the-homeric-songs
