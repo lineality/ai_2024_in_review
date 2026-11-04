@@ -6425,7 +6425,6 @@ https://www.economist.com/china/2026/10/19/does-china-really-prize-ai-speed-over
 
 
 ---
----
 
 https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay
 
@@ -6486,4 +6485,15 @@ https://www.economist.com/letters/2026/10/29/what-does-openais-progress-mean-for
 
 https://www.economist.com/by-invitation/2026/10/26/the-let-it-rip-camp-is-wrong-on-ai
 
-https://www.economist.com/by-invitation/2026/10/28/ai-is-a-technological-version-of-the-homeric-songs
+https://www.economist.com/by-invitation/2026/10/28/ai-is-a-technological-version-of-the-homeric-songs 
+
+
+---
+
+https://www.economist.com/britain/2026/10/29/londons-courts-can-thrive-under-ai-but-they-are-also-at-risk
+
+https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-soon
+
+
+Krugman 
+https://www.youtube.com/shorts/IJld043p9Vo
