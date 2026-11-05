@@ -6495,5 +6495,10 @@ https://www.economist.com/britain/2026/10/29/londons-courts-can-thrive-under-ai-
 https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-soon
 
 
-Krugman 
+Krugman on overall shape of ai-econ
 https://www.youtube.com/shorts/IJld043p9Vo
+
+
+---
+
+https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning
