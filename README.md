@@ -6,7 +6,6 @@ under construction
 
 Tech-Stack Mismatch and Technology Artifacts: GPU-Frnezy, Francois Chollet on hardware-bias in research, and floats vs. Tsetlin Machines
 
-
 https://github.com/KhaledSharif/TsetlinMachine 
 
 ...
@@ -36,9 +35,6 @@ The Value of Enthusiasm
 
 Comparison To Early Internet Part 1: Market & Civic Expectations
 
-
-
-
 ...
 
 Comparison To Early Internet Part 2: Why after four years are so many people still completely confused about what Generative-AI is on a basic level?
@@ -46,7 +42,6 @@ Comparison To Early Internet Part 2: Why after four years are so many people sti
 This does not appear to be like 2001, when people did know generally what the internet was.
 
 ...
-
 
 
 The Deluded (highly religiously gullible)
@@ -1143,6 +1138,22 @@ And (for me) this has additional twists, as this kind of AI-Project-helper proje
 
 For years in data science the lamp-genie problems have been stand topics in courses and workflow. And now that data science is becoming a set of tools and concerns more broadly used and faced by the public, it makes sense that same process concerns are now more broadly public as well. 
 
+---
+
+2026 11 05 - sell-off
+
+over maybe October of 2026, more voices of skepticism were speaking out about, for example, the circular-finance, but there is remarkably little 
+A. discussion of
+B. interest in, demand for, market for
+
+the practical issues around generative vs. other types of so-called-AI
+
+
+
+
+
+
+( ## End of Economics of AI Section )
 
 ...
 
@@ -6181,16 +6192,9 @@ With the barrier to entry falling, and more people around the world wanting and 
 
 Coming back to the classic 'photo-shop' example: has the existence of adobe and other image-editing-tool-suites lead to lower demand for skills involved in using those tools around the world? I do not think so. 
 
-
-
-
-
 ...
 
-
 Fantasy and Entertainment: pros and cons
-
-
 
 ...
 
@@ -6213,10 +6217,9 @@ testing models (scaleai?)
 
 https://en.wikipedia.org/wiki/Conway%27s_law
 
-
 ...
-https://www.economist.com/business/2026/09/23/agent-of-whom 
 
+https://www.economist.com/business/2026/09/23/agent-of-whom 
 
 ---
 
@@ -6259,7 +6262,6 @@ And, yet again: it may be helpful to look at gen-ai as a kind of improved search
 And maybe the least-worst approach is to marginally hedge and try to make the result less-bad, we may still be in the same overall situation: a mountain of bad data and a race to 'search' in better ways. Where education and 'pollution' and 'disinformation' are, yet again, recurring themes. Why is there an agenda to either ignore or exacerbate a degenerate state of publishing and education when that is very clearly a significant underlying problem with negative downstream effects? If good-data and good-learning are so clearly so valuable, how is there so much adamant refusal to acknowledge that investing in the positive productive value-function-and meaning of the positive valuable, meaningful, function assets is, tautologically, a positive meaningful function asset with value? 
 
 
-
 "In people's heads", The "Medaeval Guilds" Problem 
 As Bill Hall and Ryan Fleury agree in their Double Interview with Lukasz Sciga
 https://www.youtube.com/watch?v=ES5_IWG8rcw 
@@ -6283,7 +6285,6 @@ Anthropic was using a single-threaded python techstack in 2026.
 This should have been an international news scandal.
 There is more perversity in this scenario than is possible to imagine.
 https://www.youtube.com/watch?v=8xBJPa_480Q
-
 
 ---
 
@@ -6309,12 +6310,9 @@ https://www.economist.com/insider/inside-defence/britains-top-military-officer-o
 Cost of Compute, and vm compute:
 https://www.youtube.com/watch?v=o4-29oLHU8E
 
-
 Francis Newton (Tittle Capital Management) 2026.10, sounds right.
 
-
 ...
-
 
 Note: 
 A notable absence of news or commentary on 'the Bun Re-Write':
@@ -6332,11 +6330,7 @@ This might end up being moot if five years in the future the tech-stack and cond
 
 It is very strange that while everyone is wondering 'Does AI work?' when evaluating how much of a 1999-bubble 2026-Gen-AI is, that there is zero public discussion of this crucial milestone case-study. 
 
-
 https://www.economist.com/culture/2026/10/08/superstar-podcasts-are-silicon-valleys-way-of-talking-to-itself 
-
-
-
 
 ...
 
@@ -6355,7 +6349,6 @@ If (usually unspecified "AI") can do what people claim, where do we see this on 
 Fantasy, Extremism, Radicalization, Addiction, Habits, & Learning
 
 ...
-
 
 https://www.economist.com/china/2026/10/15/china-has-captured-the-market-for-hobbyist-3d-printers
 
@@ -6406,7 +6399,6 @@ Cyber
 - China leaks?
 https://www.youtube.com/watch?v=EW0VfiY3YA8&list=PLJnf_DDTfIVAif-vifC6F2aoPB8GIw6dk&index=1 
 
-
 ---
 
 https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both
@@ -6441,10 +6433,7 @@ mechanical interpretability
 mech interp or MI
 https://www.computerenhance.com/p/whats-in-a-token 
 
-
-
 ---
-
 
 More sites banning agents from using their website:
 https://www.youtube.com/watch?v=TVRCcMlvR10 
@@ -6469,9 +6458,7 @@ lower creativity and innovation
 
 What are the likelihoods that both easily hoodwinked naive and disabled "marks" and willingly-hoodwinked "addicts" will counterproductively go beyond entertainment speculation into a perhaps historically familiar real of defeatedly or ragingly reality-dislocated "beliefs"? 
 
-
 ...
-
 
 https://www.economist.com/weeklyedition/2026-10-31 
 
@@ -6501,4 +6488,18 @@ https://www.youtube.com/shorts/IJld043p9Vo
 
 ---
 
-https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning
+https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning 
+
+
+---
+
+https://www.economist.com/finance-and-economics/2026/10/29/ignore-ai-and-ask-for-that-pay-rise 
+
+---
+
+Law
+https://www.economist.com/britain/2026/10/29/londons-courts-can-thrive-under-ai-but-they-are-also-at-risk 
+
+https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai
+
+---
