@@ -6,6 +6,7 @@ under construction
 
 Tech-Stack Mismatch and Technology Artifacts: GPU-Frnezy, Francois Chollet on hardware-bias in research, and floats vs. Tsetlin Machines
 
+
 https://github.com/KhaledSharif/TsetlinMachine 
 
 ...
@@ -35,6 +36,9 @@ The Value of Enthusiasm
 
 Comparison To Early Internet Part 1: Market & Civic Expectations
 
+
+
+
 ...
 
 Comparison To Early Internet Part 2: Why after four years are so many people still completely confused about what Generative-AI is on a basic level?
@@ -42,6 +46,7 @@ Comparison To Early Internet Part 2: Why after four years are so many people sti
 This does not appear to be like 2001, when people did know generally what the internet was.
 
 ...
+
 
 
 The Deluded (highly religiously gullible)
@@ -6501,5 +6506,83 @@ Law
 https://www.economist.com/britain/2026/10/29/londons-courts-can-thrive-under-ai-but-they-are-also-at-risk 
 
 https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai
+
+---
+
+https://www.economist.com/leaders/2026/11/05/the-world-must-act-to-stop-a-cyber-disaster
+
+https://www.economist.com/letters/2026/11/05/llms-v-palaeontology 
+
+https://www.economist.com/the-world-this-week/2026/11/05/business
+```
+American stock markets rose a little following the Democrats’ landslide victory in the midterms. The S&P 500, an index of big American companies, rose by 1.6% the day after the vote, while the tech-heavy NASDAQ rose by nearly 1.5%. Health-care and renewable-energy stocks rallied. Bond yields fell slightly and the dollar weakened.
+
+Some artificial-intelligence stocks fell amid worries that local Democratic lawmakers could curtail the construction of data centres. Share prices of Nvidia, the world’s most valuable chipmaker, fell by more than 3%. Those of CoreWeave, a data-centre operator, fell by around 10%. Companies owned by Elon Musk, a big Republican Party donor, took a beating. Shares in SpaceX, his rocketry-cum-AI firm, fell by nearly 4%.
+```
+
+
+https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders 
+
+https://www.economist.com/business/2026/11/01/as-hackers-run-riot-with-ai-its-makers-want-to-cash-in
+
+https://www.economist.com/business/2026/11/05/firms-are-racing-to-protect-themselves-from-ai-cyber-threats
+
+---
+'Remember the 5th Wave'
+2026.11.09 gga
+
+Remember the 5th Wave and the Moon Shot, etc. (possibly the third reich, the soviet experiment, and the 'great leap forward')
+
+
+There are various examples of investment from history. Not all of these topics are fully understood, even in what areas of of STEM or Non-Stem, including:
+- Economics
+- Psychology
+- Law & Criminal Law
+- Education
+- Adademia
+- Municipal Infrastructure and public-private roles
+- Legislation
+- Civic Infrastructure
+- And the seemingly main but also elusive area of 'technological development' in the harder-sciences. (materails, algorisms, statistics, circuits, manufacturing, etc.)
+
+
+over-reach
+malinvestment
+fraud
+confusion between entertainment and practicality
+a positive entertainment factor (not well understood)
+
+interdisciplinary effects (positive or negative)
+
+
+
+
+Mobilizing the resources of society for a 'great new age' is not an automatically legitimate, positive, and constructive project with helpful constructive outcomes. Sometimes the effects of a neutral mixed bag, sometimes they are probably slightly more than marginally positive, other times they are ambiguous, marginally negative, or severely negative. 
+
+Catastrophic Failures:
+- Great Leap Forward
+- Third Reiche
+- Soviet High-Tech Uptopia
+
+Mixed But Failed:
+- French Revolution
+
+Confusing and Long-Term Failure:
+- "Moon Shot": destruction of the long term space program
+
+Non-Catastrophic Failures:
+- Japan 5th Wave
+- 'Mississippi bubble' in land-development
+- sub-prime mortgage in housing development
+
+
+Possible Marginally Useful Failures:
+- late 1990's tech bubble (dot com bubble)
+- late 1800s railroad investment
+
+
+Tools:
+
+Over
 
 ---
