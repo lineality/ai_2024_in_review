@@ -6586,3 +6586,23 @@ Tools:
 Over
 
 ---
+
+
+Dominique Toublan
+
+https://www.economist.com/business/2026/11/01/as-hackers-run-riot-with-ai-its-makers-want-to-cash-in
+
+https://www.economist.com/business/2026/11/05/firms-are-racing-to-protect-themselves-from-ai-cyber-threats
+
+https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders
+
+https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning
+
+https://www.economist.com/science-and-technology/2026/11/04/ai-models-can-tinker-with-one-anothers-brains
+
+https://www.economist.com/science-and-technology/2026/11/04/openais-approach-to-mathematics-does-not-add-up
+
+https://www.economist.com/science-and-technology/2026/11/04/drones-dont-just-blow-up-the-enemy
+
+
+---
