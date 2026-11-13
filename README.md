@@ -6604,5 +6604,6 @@ https://www.economist.com/science-and-technology/2026/11/04/openais-approach-to-
 
 https://www.economist.com/science-and-technology/2026/11/04/drones-dont-just-blow-up-the-enemy
 
-
 ---
+https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash
+https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself
