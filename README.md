@@ -6581,11 +6581,18 @@ Possible Marginally Useful Failures:
 - late 1800s railroad investment
 
 
+Indirect Positive Effects:
+
+
+Long term stagnation & regression:
+
+
+
 Tools:
 
 Over
 
----
+--- 
 
 
 Dominique Toublan
@@ -6605,5 +6612,16 @@ https://www.economist.com/science-and-technology/2026/11/04/openais-approach-to-
 https://www.economist.com/science-and-technology/2026/11/04/drones-dont-just-blow-up-the-enemy
 
 ---
+[important topics, but:
+- Economic-model of state-defense-market vs. consumer market is perhaps out of scope for op-ed, but key for publisher 
+- conspicuously not naming the consistent sources of the attacks: China, Russia, North Korea]
 https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash
-https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself
+
+[important topic, but middle-school-newspaper quality research. In 2026, this is appalling. If this was published in 2021, it would be a probably noteworthy forecast, but this level of arm waving 4-5 years into the boom-frenzy is inexplicable outside a devastating condemnation of the overall capacity for basic learning and intelligence of humans.]
+https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself 
+
+---
+
+Fatima Boolani [US software Equity Research]
+
+---
