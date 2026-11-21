@@ -2,6 +2,56 @@ under construction
  
 #### ai_2024_in_review
 
+---
+
+As 2027 is coming in, it may be possible to round out this survey:
+
+
+The broad international reaction to generative foundation-models principally driven by attention-based-deep-learning (but also by diffusion-models for images and video, if to a lesser-degree) has been characterized by the social-behavior of a religious cult, perhaps in a stubborn resurgence from an ample history unsubtly suppressed by childish denial. 
+
+
+Fantasy, Junkfood, populism, extremism, and denial in the tradition of the 1970's 'rational' self-brainwashing that effectively denied the difficulties of historical data and escaped into an anaesthesia of bureaucratically insulated platonic abstractions.
+
+These significant, non-self-reflective behaviors of most people stubbornly, refusing to study any history or other learning subjects, including repeating the mistakes of the 1930s in terms of governance and coordination.
+
+to the recreational fantasizing extremism around AI hype
+
+
+1. The strange prolonged stasis
+
+2. Silent academia
+
+3. Profound anti-intellectualism, and anti-study by most people; a bizarre disinterest in looking at data or important items
+
+4. Persistent, misrepresentations and misunderstandings about extremely basic cursory aspects of technology and data sciences
+
+5.  The geopolitical, social society, monetary technology, and cultish singularity
+
+6. Mirroring of electronic and radio spread populism in the 1920s and 30s,
+From QAnon to simplistic propaganda manipulation by China and Russia of the west to bitcoin Bros, 
+
+7. Middle Eastern extremist radicalization over the Internet (from 1990's onward, especially after 2010) https://www.brookings.edu/articles/islamism-after-the-arab-spring-between-the-islamic-state-and-the-nation-state/ 
+
+8. the appalling reelection of MAGA in 2024 (by hispanic and asian immigrants)
+
+9. The notably disjointed reaction to covid 2019-2022
+
+10. The military invasion of Europe (that many people addicted to their entertainment feeds have not noticed) from 2022 onwards.
+
+11. The 'information wars' that, again, most people are completely oblivious to.
+
+
+12. Markets, e.g. Bloomberg, Economist, a ludicrously long time going by 2022-2027 with people never asking basic top level questions such as: what is the product in all this hype? Is there a product that does something? What is it? What does it do? For this type of vagueness to conspicuously go on for minutes or hours in a public/private sector project is painful, but this has been going on for more than four years and people seem as non-reactive and unaware as if you were holding up a mirror and a sign to a flock of sheep (probably physiologically incapable of doing more than their expected daily routine tasks). 
+
+Perhaps an H.M.Mcluhan media change type event or series
+
+
+
+
+---
+
+
+
 ...
 
 Tech-Stack Mismatch and Technology Artifacts: GPU-Frnezy, Francois Chollet on hardware-bias in research, and floats vs. Tsetlin Machines
@@ -2931,7 +2981,7 @@ taking the internet, grinding it up in a blender into pieces, and force-feeding 
 
 
 gamification?
-..
+---
 
 
 - summer, winter, boom and bust
@@ -2946,10 +2996,7 @@ https://www.economist.com/business/2025/08/28/how-a-power-shortage-could-short-c
 - 
 - no meaningful discussion of topics such as Object Relationship Spaces or trying to zoom in on what is happening and what is not working
 
-...
-
-
-
+---
 
 
 context-window use and expansion:
@@ -2990,24 +3037,17 @@ where actual use-cases are rare, and their rarity seems to be covered up for wha
 this case may give clues to both the current provisional (not great) results, the gap between the fantasy of 'total black box project autonomy' and the ongoing much lower bar of collaboration (and perhaps the persistent erroneous insistence of AI as an absolutely separate other worldly entity (maybe strangely parallel to judeo-cristial extreme-abstraction of even everyday values and ethics)
 and also perhaps a foot in the door to the strange absence of crowd-sourcing and non-professional projects. 
 
-..
+---
 
 The Opaque Frontier of Computation: TPU, APU, GPU, NPU, CPU, etc. etc.
 
 https://www.economist.com/interactive/2025/07/23/inside-the-top-secret-labs-that-build-americas-nuclear-weapons
 
-
-
-
-...
+---
 
 From mysterious Nvidia selloff to September forcaste-beating. 
 
-
-...
-
-
-...
+---
 
 Hinton:
 https://www.youtube.com/watch?v=IkdziSLYzHw 
@@ -6623,5 +6663,178 @@ https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-
 ---
 
 Fatima Boolani [US software Equity Research]
+
+---
+
+This is a relatively very good discussion, in a general complete absence and a remotely relevant discussion; with the conspicuous caveat that the title and the opening are strongly garbage click bait junkfood footshot that misrepresents the overall breadth of topics (I avoided listening to this because I specifically did not want more drama-churn; as a pleasant surprise, this discussion was very much not what it advertised itself as being.
+
+https://www.economist.com/insider/the-insider/are-we-on-the-cusp-of-an-ai-market-bust?ref=featured 
+
+---
+
+2026.11.16 Beth Hammack, Cleveland Fed President; Bloomberg (Mike McKee)
+~"I talk to large and small businesses adoptin3g AI and I am hearing that AI is a compliment to labor, not a replacement."
+
+
+---
+
+Better than average article on Socio-Psychology of STEM, Stats & Data
+https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does
+
+---
+(possibly Jun-24 2026 ; seen Nov 17th 2026)
+Econ of AI
+A significantly muddled quote but Krugman, but the overall meaning should be obvious:
+
+Pkrugman: "All of a sudden we have a spate of studies that seem to show that yeah AI models allow people to churn out a lot more stuff, but the actual payoff to the stuff is much much smaller than the volume of stuff that they are churning out; most obviously in lines of code. But just in general, AI lets you do much more, but how productive that is, in terms of the ultimate goals of a business (let alone economic growth and quality of life), is much more doubtful."
+https://www.youtube.com/shorts/6e5yI7upoZk 
+
+" how many productive AI products can you list on one or two hands? Remember IBM Watson and how it was going to revolutionize medicine? Remember Deep Blue? Remember SHRDLU? What actual projects are being done with these tools? If you can't name one, then it should not be surprising the studies are finding low benefits."
+
+
+..
+
+
+---
+excerpt from outreach:
+
+Dracoe AMERICAN-BUILT UNMANNED SYSTEMS
+
+2026.11.16th
+
+To the Dracoe Hiring Team (or 'The Workshop'), 
+
+Hello! My name is Geoffrey Gordon Ashbrook, I came by your post (https://wellfound.com/jobs/4897674-uas-software-engineer) on wellfound. Here is a bit about myself and my interest in your position. Either way, best of luck! You are working in an important area indeed.
+
+I have a background in Biology (BA from CU-Boulder), Data-Science, Education (Science teaching cert/licence), Computer-Science (hired by my professor to join his AI-Agent research lab as in undergraduate back in ~2002) background
+with an emphasis on systems-modeling and project-workflow.
+
+I am located on the east coast, in very-southern New Jersey on the coast 08202), so remote is best for day to day but events and periodic travel are great.
+
+My interest in your Projects:
+
+Times have changed since the post-cold-war and since the few-big-projects mode of back-burner defense from 1990-2008. The geo-political landscape has changed, and the STEM engineering Data-Science, Computer-Science landscape has changed. Many people still have their heads in the world of decades-long contracts for $500 hammers and a few billion dollars stealth jets, but Ukraine is likely demonstrating and forecasting a present and future era more characterized by rapidly iterated, lower-cost, agile technologies. 
+
+I am strongly pro-Ukraine and pro-allies: Atlantic/NATO/JEF and Pacific (first island chain, Five Eyes (FVEY), etc.
+
+If you are looking for someone with specific experience close (or identical) to your project then I am probably not your ideal candidate. But if you value diverse backgrounds and what I strive and push for in my projects (resilient, performant, auditable, systems-programming that integrates production-data-science) then there may be a match somewhere, if not for this particular role.
+
+To me your job description looks fascinating! A topic I am trying to figure out every day is the real-life intersection of:
+1. Drone-Dominant Warfare in Ukraine
+2. Advances in some areas of AI/ML (and other STEM areas)
+
+On the one hand we have hyperbolic claims and debates over "AI," and on the other hand we have events on the drone-battlefield in Ukraine where day after day, to year after year, there is rarely any discussion of AI/ML integration. While perhaps filtered for secrecy discussions focus on human-controlled drones and reliance on GPS and WIFI for navigations, control, and coordination, and overall there is no AI-Arms-Race in drones that is materially defining the fate of European Geopolitics (meanwhile Bloomberg, The Economist, WSJ, and the Financial Times, blithely talking about AI having already surpassed humans in every task and poised to micro-manage the universe). The disconnect is stark. 
+
+At the same time, while the public has become hype-frantic over some aspects of what Kurzweil (et al) described as a 'singularity', other nuances of his long term predictions that are also relevant for the Ukraine Paradigm question are not materially evident yet, including manufacturing changes and materials advances. 'The singularity' is not supposed to be a magic, automatic,  religious event, but a possible (if oversimplified) intersection of many STEM areas that reinforce each other. (Most likely, most people have not carefully read most of Kurzweil's books.) As context is important, the context of Ukraine may emphasize this: what are unmanned systems made of? How and where are they made? How is the hardware and software designed, planned, analyzed, adapted, tested, prototyped, deployed, and iterated on? Not only is AI/ML only sometimes in the margins, there is no daily, weekly, monthly cascade of new developments in materials, assembly, testing, logistics, 3D printing, nano-tech, circuit miniaturization, signals, optics, memory advances, operating systems, compilers, debuggers, etc. Yet in social media people act like 'the singularity' was a chat-bot IQ test that was passed and past in 2022.  While such a cross-reinforcement may still be decades away and speculative for some people and industries, it seems to be directly relevant to your future (and present) plans and designs (not merely clickbait entertainment hype). That is very interesting!
+
+I do not see these topics as vague changes that will passively happen to the world, but as possible reminders of where we need to be pushing innovation and development. As I speak with various companies I am routinely struck by how passive and disinterested people are in so many areas, apathetically recycling problematic technologies from years or decades in the past with no appetite for rigorous testing and performance/security evaluation, nor for pushing to develop better methods. 
+
+Compared to the post-cold-war, the 2020's in Ukraine do seem to demonstrate a kind of Red-Queen-Effect evolving unmanned technology and defenses, but various key areas of STEM seem to be missing from that iteration cycle, and classic technologies (like PAC2-PAC3 defence (big, expensive) are very prominent (sometimes overwhelmingly so)(though not the same as front-line moving developments). 
+
+
+As some specific Data-Science/Computer Science areas that might be involved in your scope:
+
+Larger problem space, especially around autonomous 'drone' (air, land, sea, medical, evac, swarm, IoT data, etc.)
+1. no-GPS navigation
+2. model-types and hardware performance: Granmo Automata Machines vs. large, slow expensive Pretrained Transformer-Family or Diffusion-family models.
+3. tabular/structured data and structured/unstructured data conversion
+4. 'state' as a core design topic and not a punted 'solved' externality
+5. retraining, continuous training, and feedback-reinforcement (or lack thereof) in model and architecture choice
+6. post-capture software design
+7. networks & signals; decentralized/distributed, lite
+8. static analysis & critical software tools, analysis, & ~optimization
+9. performance-behavior tools, analysis, & ~optimization
+10. languages and tech-stack
+11. integration of '~state of the art' systems programming and data science into embedded systems engineering
+12. Policies of use of generative/embedding AI in 1. development workflows, 2. production deployed workflows
+13. GPU/{}PU Use
+14. Space/Satelites/Moon/Mars etc.
+15. Time-Precision Management
+
+Etc.
+- Modes and Cases
+- GC (garbage collection, no)
+- Rust vs. C vs. fil-c vs. assembler, etc: performance-optimization needs
+- Rust vs. C vs. fil-c vs. assembler, etc: 'static-analysis'/runtime-check needs
+- Production-Databases
+
+Also see other production Data Science and Project/Product Management areas:
+https://github.com/lineality/project_product_and_production_links 
+
+
+I am especially interested in: 
+
+Production Data Science and the intersection of various fields that remain, sadly, disparate:
+- embedded systems
+- systems programming
+- performance/data oriented programming
+- Data Science
+- Edge AI/ML & "Tiny-ML"
+- Information Theory (E.g. telecom engineering)
+- statistics & applied mathematics
+
+You mention python and Go:
+While rapid-POC is often an indispensable part of needs & goals evaluation and market research, from my cursory knowledge of your domain I am skeptical that python (most likely rife with third party dependencies, impossible to debug or static-analyze in any serious way, and completely lacking any mode-distinction and so lacking the existence or possibility of a production-release mode, )
+Go is most likely better, but the Garbage Collector (GC) would be a serious ongoing liability for a performance sensitive application.
+
+
+For full disclosure I am not directly family with: Mavlink / BetaFlight / ArduPilot / PX4 But I am very interested in communication protocols & state & command management and have been working on my own protocols for years. 
+
+History of STEM, computer science, etc., and looking at the continued role of biology in STEM and computer science, such as looking to apply 'social insect' (such as ants, bees, wasps, etc.) to design of coordinated varyingly-autonomous and distributed systems.
+
+
+If you have not read this far, you have my sympathies and apologies. I wish you be best of luck. If you are interested in speaking further about these wonderful life-shaping topics, I would be happy to sign an NDA and discuss at a time that suits you. I am also available as an advisor as well as a direct team member.
+
+
+---
+
+
+"Tech Bro Midlife-Crisis"[PK]
+Bubble Trouble: Are We in an AI bubble or not? - Paul Krugman
+https://www.youtube.com/watch?v=IspvqI5na7c
+Jared Bernstein and Jason Furman
+
+---
+
+
+"Digital Twins" & Motors: Manufacturing
+ 
+Motor Company in Akita, Tohoku:
+- High quality motor producer
+- Quality motors now in demand high for drones [US demand]
+- 'Digital twin' (engineering definition) being used to optimize production: akari
+- Unclear exactly what tech-stack, very interesting
+
+
+[Starting at 14 min]
+https://podcasts.apple.com/us/podcast/english-news-nhk-world-radio-japan/id141016660?i=1000802895245 
+
+NHK
+https://app.dealroom.co/news/note/tokyo-ai-startup-akari-takes-stake-in-akita-motor-maker-aster 
+
+Manufacturing
+
+
+---
+Bloomberg:
+
+Devon Ackerman (LevelBlue forensics; formerly FBI)
+- end 2016 7k vulnerabilities
+- end 2025 48k vulnerabilities
+- to 2026.11 102k vulnerabilities
+
+2026.11.20
+
+
+---
+
+econ of AI
+
+late Nov. Dialogue starting to turn to 'bubble'
+e.g.
+not 'is it a bubble' but
+
+"We don't want the bubble to pop too soon."
+
 
 ---
