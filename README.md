@@ -6838,3 +6838,17 @@ not 'is it a bubble' but
 
 
 ---
+Believers and Skeptics 
+(Note: old book on that topic/theme, by Keith Thompson)
+
+Bloomberg seems to have 'called the election' and bubble vaporware is the ruling.
+
+The Economist is still vaguely distant and overall vaguely pushes the coolaid,
+but some articles are less bad about details and those don't support the religious fanaticism.
+
+---
+
+
+Neon: A Google Model that isn't the worst.
+https://www.youtube.com/watch?v=HQlk9RGx2dk 
+- at ~24min, task vs. explanation (e.g. math-proof vs. explanation)
