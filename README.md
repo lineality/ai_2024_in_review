@@ -6852,3 +6852,20 @@ but some articles are less bad about details and those don't support the religio
 Neon: A Google Model that isn't the worst.
 https://www.youtube.com/watch?v=HQlk9RGx2dk 
 - at ~24min, task vs. explanation (e.g. math-proof vs. explanation)
+
+---
+
+https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai
+
+https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles 
+
+https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai
+
+https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai
+
+https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall 
+
+https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand
+
+
+---
