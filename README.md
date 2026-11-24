@@ -6675,7 +6675,6 @@ https://www.economist.com/insider/the-insider/are-we-on-the-cusp-of-an-ai-market
 2026.11.16 Beth Hammack, Cleveland Fed President; Bloomberg (Mike McKee)
 ~"I talk to large and small businesses adoptin3g AI and I am hearing that AI is a compliment to labor, not a replacement."
 
-
 ---
 
 Better than average article on Socio-Psychology of STEM, Stats & Data
@@ -6691,11 +6690,8 @@ https://www.youtube.com/shorts/6e5yI7upoZk
 
 " how many productive AI products can you list on one or two hands? Remember IBM Watson and how it was going to revolutionize medicine? Remember Deep Blue? Remember SHRDLU? What actual projects are being done with these tools? If you can't name one, then it should not be surprising the studies are finding low benefits."
 
-
-..
-
-
 ---
+
 excerpt from outreach:
 
 Dracoe AMERICAN-BUILT UNMANNED SYSTEMS
@@ -6825,7 +6821,6 @@ Devon Ackerman (LevelBlue forensics; formerly FBI)
 
 2026.11.20
 
-
 ---
 
 econ of AI
@@ -6838,34 +6833,41 @@ not 'is it a bubble' but
 
 
 ---
+
 Believers and Skeptics 
 (Note: old book on that topic/theme, by Keith Thompson)
 
 Bloomberg seems to have 'called the election' and bubble vaporware is the ruling.
 
 The Economist is still vaguely distant and overall vaguely pushes the coolaid,
-but some articles are less bad about details and those don't support the religious fanaticism.
+but some articles are less bad about details and those do not support the religious fanaticism.
 
 ---
-
 
 Neon: A Google Model that isn't the worst.
 https://www.youtube.com/watch?v=HQlk9RGx2dk 
 - at ~24min, task vs. explanation (e.g. math-proof vs. explanation)
 
+git
+
 ---
 
+
 https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai
+
 
 https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles 
 
+
 https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai
+
 
 https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai
 
+
 https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall 
 
-https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand
 
+https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand
 
 ---
