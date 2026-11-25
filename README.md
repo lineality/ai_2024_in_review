@@ -6831,7 +6831,6 @@ not 'is it a bubble' but
 
 "We don't want the bubble to pop too soon."
 
-
 ---
 
 Believers and Skeptics 
@@ -6852,18 +6851,13 @@ git
 
 ---
 
-
 https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai
-
 
 https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles 
 
-
 https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai
 
-
 https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai
-
 
 https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall 
 
@@ -6871,3 +6865,9 @@ https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall
 https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand
 
 ---
+
+https://www.youtube.com/watch?v=QARxiqCkJF4
+
+---
+
+https://www.economist.com/science-and-technology/2026/11/18/llms-are-developing-filthy-mouths
