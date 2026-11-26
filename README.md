@@ -6871,3 +6871,15 @@ https://www.youtube.com/watch?v=QARxiqCkJF4
 ---
 
 https://www.economist.com/science-and-technology/2026/11/18/llms-are-developing-filthy-mouths
+
+---
+
+Economics of AI:
+
+Is there a missing piece to story of the 1990's internet disrupting/undermining Journalism? Has inflation made journalism into a luxury product no longer affordable and maintainable for the average person?
+
+The Gaphetto-Paradox 
+
+Note, this may be either not the case at all or only one of many marginal factors.
+
+---
