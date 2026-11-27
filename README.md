@@ -6831,6 +6831,7 @@ not 'is it a bubble' but
 
 "We don't want the bubble to pop too soon."
 
+
 ---
 
 Believers and Skeptics 
@@ -6851,35 +6852,118 @@ git
 
 ---
 
+
 https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai
+
 
 https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles 
 
+
 https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai
 
+
 https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai
+
 
 https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall 
 
 
 https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand
 
+
+
+
 ---
+
 
 https://www.youtube.com/watch?v=QARxiqCkJF4
 
+
+
+
 ---
+
+
+https://www.economist.com/weeklyedition/2026-11-21 
+
+
+https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying 
+
 
 https://www.economist.com/science-and-technology/2026/11/18/llms-are-developing-filthy-mouths
 
+
+
+
 ---
+
 
 Economics of AI:
 
+
 Is there a missing piece to story of the 1990's internet disrupting/undermining Journalism? Has inflation made journalism into a luxury product no longer affordable and maintainable for the average person?
+
+
+
 
 The Gaphetto-Paradox 
 
+
 Note, this may be either not the case at all or only one of many marginal factors.
 
+
 ---
+
+
+
+
+Paradigm Confusions (2026.11.26)
+
+
+From the techno-utopian-ism of the the late 1990s, 
+
+
+That 'technology would replace:
+- governments
+- money
+- books
+- schools
+- property-rights
+- religion
+- reality
+
+
+
+
+That there would be no more:
+- hunger
+- war
+- militaries
+- conflict
+- poverty
+- lack of education
+- violence
+- corruption
+- social hierarchies 
+- social inequalities
+
+
+Later papers by Sir Tim Berners-Lee (where the problem-space one of not infrastructure design but a Manachean ideological food fight against always-elementally-evil businesses and markets. 
+
+
+W3C essay "The Good on the Internet" and his ~2024-2025 
+
+
+2024-06-21
+https://www.w3.org/DesignIssues/Good.html 
+
+
+The Guardian essay 
+https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free 
+
+
+Prof. Robert Page
+https://www.youtube.com/watch?v=B9WC1plxlKQ 
+
+
+Hypothesizing (speculatively, but feasibly) that internet+mobile devices are evolving into low-cost mass produced drone-warfare: 'everyone can afford an online mobile device (in 1996 peace-land)' becomes 'everyone can afford drone warfare hardware' in the 2020's where the man-o-sphere and [absurd] militant extremist propaganda are the preferred 'exciting new online content!' [from pizza-gate-q-anon to Russia protecting Europe from Jewish-Nazis by (Russia) turning French grocery fridges into ovens and bombing hospitals and school-book warehouses (and broad human safari)].
